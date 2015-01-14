@@ -1,0 +1,2623 @@
+**********Wallet-XtraDBbackup******: Wed Oct  8 09:36:01 IST 2014
+Backup  started on: Wed Oct  8 09:36:01 IST 2014 
+----------------------------------
+**********Wallet-XtraDBbackup******: Wed Oct  8 09:40:01 IST 2014
+Backup  started on: Wed Oct  8 09:40:01 IST 2014 
+----------------------------------
+Check completed OK
+New full DB backup started on: Wed Oct 8 09:40:01 IST 2014
+Full DB Backup  Completed Successfully on: Wed Oct  8 12:36:16 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/base/2014-10-08_09-40-01
+Cleaning up old backups (older than 960 minutes) and temporary files
+took 176 minutes
+completed: Wed Oct  8 12:36:17 IST 2014
+**********Wallet-XtraDBbackup******: Wed Oct  8 13:15:01 IST 2014
+Backup  started on: Wed Oct  8 13:15:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Wed Oct  8 13:15:01 IST 2014
+Incremental Backup  Completed Successfully on: Wed Oct  8 14:10:35 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-10-08_09-40-01/2014-10-08_13-15-02
+Cleaning up old backups (older than 900 minutes) and temporary files
+took 55 minutes
+completed: Wed Oct  8 14:10:35 IST 2014
+**********Wallet-XtraDBbackup******: Wed Oct  8 19:15:01 IST 2014
+Backup  started on: Wed Oct  8 19:15:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Wed Oct  8 19:15:01 IST 2014
+Incremental Backup  Completed Successfully on: Wed Oct  8 20:15:52 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-10-08_09-40-01/2014-10-08_19-15-23
+Cleaning up old backups (older than 20160 minutes) and temporary files
+took 60 minutes
+completed: Wed Oct  8 20:15:52 IST 2014
+**********Wallet-XtraDBbackup******: Thu Oct  9 01:15:01 IST 2014
+Backup  started on: Thu Oct  9 01:15:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Thu Oct  9 01:15:01 IST 2014
+Incremental Backup  Completed Successfully on: Thu Oct  9 01:56:17 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-10-08_09-40-01/2014-10-09_01-15-02
+Cleaning up old backups (older than 20160 minutes) and temporary files
+took 41 minutes
+completed: Thu Oct  9 01:56:17 IST 2014
+**********Wallet-XtraDBbackup******: Thu Oct  9 07:15:01 IST 2014
+Backup  started on: Thu Oct  9 07:15:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Thu Oct  9 07:15:01 IST 2014
+Incremental Backup  Completed Successfully on: Thu Oct  9 07:17:13 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-10-08_09-40-01/2014-10-09_07-15-02
+Cleaning up old backups (older than 20160 minutes) and temporary files
+took 2 minutes
+completed: Thu Oct  9 07:17:13 IST 2014
+**********Wallet-XtraDBbackup******: Thu Oct  9 13:15:01 IST 2014
+Backup  started on: Thu Oct  9 13:15:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Thu Oct  9 13:15:01 IST 2014
+Incremental Backup  Completed Successfully on: Thu Oct  9 14:05:33 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-10-08_09-40-01/2014-10-09_13-15-02
+Cleaning up old backups (older than 10080 minutes) and temporary files
+took 50 minutes
+completed: Thu Oct  9 14:05:33 IST 2014
+**********Wallet-XtraDBbackup******: Thu Oct  9 19:15:01 IST 2014
+Backup  started on: Thu Oct  9 19:15:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Thu Oct  9 19:15:01 IST 2014
+Incremental Backup  Completed Successfully on: Thu Oct  9 20:17:21 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-10-08_09-40-01/2014-10-09_19-15-03
+Cleaning up old backups (older than 10080 minutes) and temporary files
+took 62 minutes
+completed: Thu Oct  9 20:17:21 IST 2014
+**********Wallet-XtraDBbackup******: Fri Oct 10 01:15:01 IST 2014
+Backup  started on: Fri Oct 10 01:15:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Fri Oct 10 01:15:01 IST 2014
+Incremental Backup  Completed Successfully on: Fri Oct 10 02:16:41 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-10-08_09-40-01/2014-10-10_01-15-23
+Cleaning up old backups (older than 10080 minutes) and temporary files
+took 61 minutes
+completed: Fri Oct 10 02:16:42 IST 2014
+**********Wallet-XtraDBbackup******: Fri Oct 10 07:15:01 IST 2014
+Backup  started on: Fri Oct 10 07:15:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Fri Oct 10 07:15:02 IST 2014
+Incremental Backup  Completed Successfully on: Fri Oct 10 08:18:16 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-10-08_09-40-01/2014-10-10_07-15-03
+Cleaning up old backups (older than 10080 minutes) and temporary files
+took 63 minutes
+completed: Fri Oct 10 08:18:16 IST 2014
+**********Wallet-XtraDBbackup******: Fri Oct 10 13:15:01 IST 2014
+Backup  started on: Fri Oct 10 13:15:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Fri Oct 10 13:15:01 IST 2014
+Incremental Backup  Completed Successfully on: Fri Oct 10 14:18:16 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-10-08_09-40-01/2014-10-10_13-15-03
+Cleaning up old backups (older than 10080 minutes) and temporary files
+took 63 minutes
+completed: Fri Oct 10 14:18:16 IST 2014
+**********Wallet-XtraDBbackup******: Fri Oct 10 19:15:01 IST 2014
+Backup  started on: Fri Oct 10 19:15:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Fri Oct 10 19:15:01 IST 2014
+Incremental Backup  Completed Successfully on: Fri Oct 10 20:30:12 IST 2014 
+
+---------- ERROR OUTPUT from  ----------
+**********Wallet-XtraDBbackup******: Sat Oct 11 01:15:01 IST 2014
+Backup  started on: Sat Oct 11 01:15:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Sat Oct 11 01:15:01 IST 2014
+Incremental Backup  Completed Successfully on: Sat Oct 11 01:15:04 IST 2014 
+
+---------- ERROR OUTPUT from  ----------
+**********Wallet-XtraDBbackup******: Sat Oct 11 07:15:01 IST 2014
+Backup  started on: Sat Oct 11 07:15:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Sat Oct 11 07:15:01 IST 2014
+Incremental Backup  Completed Successfully on: Sat Oct 11 07:15:22 IST 2014 
+
+---------- ERROR OUTPUT from  ----------
+**********Wallet-XtraDBbackup******: Sat Oct 11 13:15:01 IST 2014
+Backup  started on: Sat Oct 11 13:15:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Sat Oct 11 13:15:01 IST 2014
+Incremental Backup  Completed Successfully on: Sat Oct 11 13:15:03 IST 2014 
+
+---------- ERROR OUTPUT from  ----------
+**********Wallet-XtraDBbackup******: Sat Oct 11 19:15:01 IST 2014
+Backup  started on: Sat Oct 11 19:15:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Sat Oct 11 19:15:01 IST 2014
+Incremental Backup  Completed Successfully on: Sat Oct 11 19:15:02 IST 2014 
+
+---------- ERROR OUTPUT from  ----------
+**********Wallet-XtraDBbackup******: Sun Oct 12 01:15:01 IST 2014
+Backup  started on: Sun Oct 12 01:15:01 IST 2014 
+----------------------------------
+Check completed OK
+New full DB backup started on: Sun Oct 12 01:15:01 IST 2014
+Full DB Backup  Completed Successfully on: Sun Oct 12 03:28:46 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/base/2014-10-12_01-15-02
+Cleaning up old backups (older than 10080 minutes) and temporary files
+took 133 minutes
+completed: Sun Oct 12 03:28:46 IST 2014
+**********Wallet-XtraDBbackup******: Sun Oct 12 07:15:01 IST 2014
+Backup  started on: Sun Oct 12 07:15:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Sun Oct 12 07:15:01 IST 2014
+Incremental Backup  Completed Successfully on: Sun Oct 12 08:16:32 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-10-12_01-15-02/2014-10-12_07-15-02
+Cleaning up old backups (older than 10080 minutes) and temporary files
+took 61 minutes
+completed: Sun Oct 12 08:16:32 IST 2014
+**********Wallet-XtraDBbackup******: Sun Oct 12 11:00:01 IST 2014
+Backup  started on: Sun Oct 12 11:00:01 IST 2014 
+----------------------------------
+Check completed OK
+New full DB backup started on: Sun Oct 12 11:00:01 IST 2014
+Full DB Backup  Completed Successfully on: Sun Oct 12 14:09:51 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/base/2014-10-12_11-00-22
+Cleaning up old backups (older than 336 minutes) and temporary files
+took 189 minutes
+completed: Sun Oct 12 14:09:51 IST 2014
+**********Wallet-XtraDBbackup******: Sun Oct 12 15:00:01 IST 2014
+Backup  started on: Sun Oct 12 15:00:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Sun Oct 12 15:00:01 IST 2014
+Incremental Backup  Completed Successfully on: Sun Oct 12 16:01:47 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-10-12_11-00-22/2014-10-12_15-00-02
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 61 minutes
+completed: Sun Oct 12 16:01:47 IST 2014
+**********Wallet-XtraDBbackup******: Sun Oct 12 18:05:01 IST 2014
+Backup  started on: Sun Oct 12 18:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Sun Oct 12 18:05:01 IST 2014
+Incremental Backup  Completed Successfully on: Sun Oct 12 19:07:55 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-10-12_11-00-22/2014-10-12_18-05-02
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 62 minutes
+completed: Sun Oct 12 19:07:55 IST 2014
+**********Wallet-XtraDBbackup******: Sun Oct 12 23:05:02 IST 2014
+Backup  started on: Sun Oct 12 23:05:02 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Sun Oct 12 23:05:02 IST 2014
+Incremental Backup  Completed Successfully on: Mon Oct 13 00:18:42 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-10-12_11-00-22/2014-10-12_23-05-04
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 73 minutes
+completed: Mon Oct 13 00:18:42 IST 2014
+**********Wallet-XtraDBbackup******: Mon Oct 13 03:05:01 IST 2014
+Backup  started on: Mon Oct 13 03:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New full DB backup started on: Mon Oct 13 03:05:01 IST 2014
+Full DB Backup  Completed Successfully on: Mon Oct 13 06:29:13 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/base/2014-10-13_03-05-02
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 204 minutes
+completed: Mon Oct 13 06:29:13 IST 2014
+**********Wallet-XtraDBbackup******: Mon Oct 13 08:05:01 IST 2014
+Backup  started on: Mon Oct 13 08:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Mon Oct 13 08:05:01 IST 2014
+Incremental Backup  Completed Successfully on: Mon Oct 13 09:09:29 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-10-13_03-05-02/2014-10-13_08-05-02
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 64 minutes
+completed: Mon Oct 13 09:09:29 IST 2014
+**********Wallet-XtraDBbackup******: Mon Oct 13 13:05:01 IST 2014
+Backup  started on: Mon Oct 13 13:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Mon Oct 13 13:05:01 IST 2014
+Incremental Backup  Completed Successfully on: Mon Oct 13 14:09:55 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-10-13_03-05-02/2014-10-13_13-05-22
+Cleaning up old backups (older than 1440 minutes) and temporary files
+deleting 2014-10-12_11-00-22
+took 79 minutes
+completed: Mon Oct 13 14:24:12 IST 2014
+**********Wallet-XtraDBbackup******: Mon Oct 13 18:05:01 IST 2014
+Backup  started on: Mon Oct 13 18:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Mon Oct 13 18:05:01 IST 2014
+Incremental Backup  Completed Successfully on: Mon Oct 13 19:07:03 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-10-13_03-05-02/2014-10-13_18-05-02
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 62 minutes
+completed: Mon Oct 13 19:07:03 IST 2014
+**********Wallet-XtraDBbackup******: Mon Oct 13 23:05:01 IST 2014
+Backup  started on: Mon Oct 13 23:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New full DB backup started on: Mon Oct 13 23:05:02 IST 2014
+Full DB Backup  Completed Successfully on: Tue Oct 14 01:45:06 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/base/2014-10-13_23-05-03
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 160 minutes
+completed: Tue Oct 14 01:45:06 IST 2014
+**********Wallet-XtraDBbackup******: Tue Oct 14 02:05:01 IST 2014
+Backup  started on: Tue Oct 14 02:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Tue Oct 14 02:05:01 IST 2014
+Incremental Backup  Completed Successfully on: Tue Oct 14 02:52:03 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-10-13_23-05-03/2014-10-14_02-05-02
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 47 minutes
+completed: Tue Oct 14 02:52:03 IST 2014
+**********Wallet-XtraDBbackup******: Tue Oct 14 08:05:01 IST 2014
+Backup  started on: Tue Oct 14 08:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Tue Oct 14 08:05:01 IST 2014
+Incremental Backup  Completed Successfully on: Tue Oct 14 09:06:44 IST 2014 
+
+---------- ERROR OUTPUT from  ----------
+**********Wallet-XtraDBbackup******: Tue Oct 14 15:05:01 IST 2014
+Backup  started on: Tue Oct 14 15:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New full DB backup started on: Tue Oct 14 15:05:01 IST 2014
+Full DB Backup  Completed Successfully on: Tue Oct 14 18:39:32 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/base/2014-10-14_15-05-02
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 214 minutes
+completed: Tue Oct 14 18:39:32 IST 2014
+**********Wallet-XtraDBbackup******: Tue Oct 14 22:05:01 IST 2014
+Backup  started on: Tue Oct 14 22:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Tue Oct 14 22:05:02 IST 2014
+Incremental Backup  Completed Successfully on: Tue Oct 14 23:01:25 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-10-14_15-05-02/2014-10-14_22-05-03
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 56 minutes
+completed: Tue Oct 14 23:01:25 IST 2014
+**********Wallet-XtraDBbackup******: Wed Oct 15 03:05:01 IST 2014
+Backup  started on: Wed Oct 15 03:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Wed Oct 15 03:05:01 IST 2014
+Incremental Backup  Completed Successfully on: Wed Oct 15 03:53:34 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-10-14_15-05-02/2014-10-15_03-05-02
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 48 minutes
+completed: Wed Oct 15 03:53:34 IST 2014
+**********Wallet-XtraDBbackup******: Wed Oct 15 09:05:01 IST 2014
+Backup  started on: Wed Oct 15 09:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New full DB backup started on: Wed Oct 15 09:05:01 IST 2014
+Full DB Backup  Completed Successfully on: Wed Oct 15 12:22:33 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/base/2014-10-15_09-05-02
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 197 minutes
+completed: Wed Oct 15 12:22:33 IST 2014
+**********Wallet-XtraDBbackup******: Wed Oct 15 15:05:01 IST 2014
+Backup  started on: Wed Oct 15 15:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Wed Oct 15 15:05:01 IST 2014
+Incremental Backup  Completed Successfully on: Wed Oct 15 15:59:39 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-10-15_09-05-02/2014-10-15_15-05-02
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 54 minutes
+completed: Wed Oct 15 15:59:40 IST 2014
+**********Wallet-XtraDBbackup******: Wed Oct 15 22:05:01 IST 2014
+Backup  started on: Wed Oct 15 22:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Wed Oct 15 22:05:01 IST 2014
+Incremental Backup  Completed Successfully on: Wed Oct 15 23:07:31 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-10-15_09-05-02/2014-10-15_22-05-02
+Cleaning up old backups (older than 1440 minutes) and temporary files
+deleting 2014-10-14_15-05-02
+took 73 minutes
+completed: Wed Oct 15 23:18:05 IST 2014
+**********Wallet-XtraDBbackup******: Thu Oct 16 03:05:01 IST 2014
+Backup  started on: Thu Oct 16 03:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New full DB backup started on: Thu Oct 16 03:05:01 IST 2014
+Full DB Backup  Completed Successfully on: Thu Oct 16 05:15:49 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/base/2014-10-16_03-05-03
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 130 minutes
+completed: Thu Oct 16 05:15:49 IST 2014
+**********Wallet-XtraDBbackup******: Thu Oct 16 09:05:01 IST 2014
+Backup  started on: Thu Oct 16 09:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Thu Oct 16 09:05:01 IST 2014
+Incremental Backup  Completed Successfully on: Thu Oct 16 09:56:17 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-10-16_03-05-03/2014-10-16_09-05-02
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 51 minutes
+completed: Thu Oct 16 09:56:17 IST 2014
+**********Wallet-XtraDBbackup******: Thu Oct 16 15:05:01 IST 2014
+Backup  started on: Thu Oct 16 15:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Thu Oct 16 15:05:01 IST 2014
+Incremental Backup  Completed Successfully on: Thu Oct 16 16:01:11 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-10-16_03-05-03/2014-10-16_15-05-02
+Cleaning up old backups (older than 1440 minutes) and temporary files
+deleting 2014-10-15_09-05-02
+took 70 minutes
+completed: Thu Oct 16 16:15:34 IST 2014
+**********Wallet-XtraDBbackup******: Thu Oct 16 22:05:01 IST 2014
+Backup  started on: Thu Oct 16 22:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New full DB backup started on: Thu Oct 16 22:05:01 IST 2014
+Full DB Backup  Completed Successfully on: Fri Oct 17 00:56:09 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/base/2014-10-16_22-05-02
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 171 minutes
+completed: Fri Oct 17 00:56:10 IST 2014
+**********Wallet-XtraDBbackup******: Fri Oct 17 03:05:01 IST 2014
+Backup  started on: Fri Oct 17 03:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Fri Oct 17 03:05:02 IST 2014
+Incremental Backup  Completed Successfully on: Fri Oct 17 03:55:52 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-10-16_22-05-02/2014-10-17_03-05-02
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 50 minutes
+completed: Fri Oct 17 03:55:53 IST 2014
+**********Wallet-XtraDBbackup******: Fri Oct 17 09:05:05 IST 2014
+Backup  started on: Fri Oct 17 09:05:05 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Fri Oct 17 09:05:06 IST 2014
+Incremental Backup  Completed Successfully on: Fri Oct 17 09:57:49 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-10-16_22-05-02/2014-10-17_09-05-07
+Cleaning up old backups (older than 1440 minutes) and temporary files
+deleting 2014-10-16_03-05-03
+took 63 minutes
+completed: Fri Oct 17 10:08:43 IST 2014
+**********Wallet-XtraDBbackup******: Fri Oct 17 15:05:01 IST 2014
+Backup  started on: Fri Oct 17 15:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New full DB backup started on: Fri Oct 17 15:05:01 IST 2014
+Full DB Backup  Completed Successfully on: Fri Oct 17 18:03:15 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/base/2014-10-17_15-05-02
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 178 minutes
+completed: Fri Oct 17 18:03:15 IST 2014
+**********Wallet-XtraDBbackup******: Fri Oct 17 22:05:01 IST 2014
+Backup  started on: Fri Oct 17 22:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Fri Oct 17 22:05:01 IST 2014
+Incremental Backup  Completed Successfully on: Fri Oct 17 23:02:18 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-10-17_15-05-02/2014-10-17_22-05-03
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 57 minutes
+completed: Fri Oct 17 23:02:18 IST 2014
+**********Wallet-XtraDBbackup******: Sat Oct 18 03:05:01 IST 2014
+Backup  started on: Sat Oct 18 03:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Sat Oct 18 03:05:01 IST 2014
+Incremental Backup  Completed Successfully on: Sat Oct 18 03:58:24 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-10-17_15-05-02/2014-10-18_03-05-02
+Cleaning up old backups (older than 1440 minutes) and temporary files
+deleting 2014-10-16_22-05-02
+took 63 minutes
+completed: Sat Oct 18 04:08:48 IST 2014
+**********Wallet-XtraDBbackup******: Sat Oct 18 09:05:01 IST 2014
+Backup  started on: Sat Oct 18 09:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New full DB backup started on: Sat Oct 18 09:05:01 IST 2014
+Full DB Backup  Completed Successfully on: Sat Oct 18 12:26:35 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/base/2014-10-18_09-05-02
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 201 minutes
+completed: Sat Oct 18 12:26:35 IST 2014
+**********Wallet-XtraDBbackup******: Sat Oct 18 15:05:02 IST 2014
+Backup  started on: Sat Oct 18 15:05:02 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Sat Oct 18 15:05:02 IST 2014
+Incremental Backup  Completed Successfully on: Sat Oct 18 16:07:42 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-10-18_09-05-02/2014-10-18_15-05-03
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 62 minutes
+completed: Sat Oct 18 16:07:42 IST 2014
+**********Wallet-XtraDBbackup******: Sat Oct 18 22:05:01 IST 2014
+Backup  started on: Sat Oct 18 22:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Sat Oct 18 22:05:02 IST 2014
+Incremental Backup  Completed Successfully on: Sat Oct 18 23:08:54 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-10-18_09-05-02/2014-10-18_22-05-03
+Cleaning up old backups (older than 1440 minutes) and temporary files
+deleting 2014-10-17_15-05-02
+took 76 minutes
+completed: Sat Oct 18 23:21:58 IST 2014
+**********Wallet-XtraDBbackup******: Sun Oct 19 03:05:01 IST 2014
+Backup  started on: Sun Oct 19 03:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New full DB backup started on: Sun Oct 19 03:05:02 IST 2014
+Full DB Backup  Completed Successfully on: Sun Oct 19 05:26:39 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/base/2014-10-19_03-05-03
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 141 minutes
+completed: Sun Oct 19 05:26:39 IST 2014
+**********Wallet-XtraDBbackup******: Sun Oct 19 09:05:01 IST 2014
+Backup  started on: Sun Oct 19 09:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Sun Oct 19 09:05:01 IST 2014
+Incremental Backup  Completed Successfully on: Sun Oct 19 10:00:00 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-10-19_03-05-03/2014-10-19_09-05-02
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 54 minutes
+completed: Sun Oct 19 10:00:00 IST 2014
+**********Wallet-XtraDBbackup******: Sun Oct 19 15:05:01 IST 2014
+Backup  started on: Sun Oct 19 15:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Sun Oct 19 15:05:01 IST 2014
+Incremental Backup  Completed Successfully on: Sun Oct 19 16:00:40 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-10-19_03-05-03/2014-10-19_15-05-02
+Cleaning up old backups (older than 1440 minutes) and temporary files
+deleting 2014-10-18_09-05-02
+took 71 minutes
+completed: Sun Oct 19 16:16:29 IST 2014
+**********Wallet-XtraDBbackup******: Sun Oct 19 22:05:01 IST 2014
+Backup  started on: Sun Oct 19 22:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New full DB backup started on: Sun Oct 19 22:05:01 IST 2014
+Full DB Backup  Completed Successfully on: Mon Oct 20 01:07:37 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/base/2014-10-19_22-05-02
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 182 minutes
+completed: Mon Oct 20 01:07:37 IST 2014
+**********Wallet-XtraDBbackup******: Mon Oct 20 03:05:01 IST 2014
+Backup  started on: Mon Oct 20 03:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Mon Oct 20 03:05:01 IST 2014
+Incremental Backup  Completed Successfully on: Mon Oct 20 03:56:42 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-10-19_22-05-02/2014-10-20_03-05-02
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 51 minutes
+completed: Mon Oct 20 03:56:42 IST 2014
+**********Wallet-XtraDBbackup******: Mon Oct 20 09:05:01 IST 2014
+Backup  started on: Mon Oct 20 09:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Mon Oct 20 09:05:01 IST 2014
+Incremental Backup  Completed Successfully on: Mon Oct 20 10:01:38 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-10-19_22-05-02/2014-10-20_09-05-02
+Cleaning up old backups (older than 1440 minutes) and temporary files
+deleting 2014-10-19_03-05-03
+took 68 minutes
+completed: Mon Oct 20 10:13:54 IST 2014
+**********Wallet-XtraDBbackup******: Mon Oct 20 15:05:01 IST 2014
+Backup  started on: Mon Oct 20 15:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New full DB backup started on: Mon Oct 20 15:05:01 IST 2014
+Full DB Backup  Completed Successfully on: Mon Oct 20 18:25:04 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/base/2014-10-20_15-05-02
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 200 minutes
+completed: Mon Oct 20 18:25:04 IST 2014
+**********Wallet-XtraDBbackup******: Mon Oct 20 22:05:01 IST 2014
+Backup  started on: Mon Oct 20 22:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Mon Oct 20 22:05:02 IST 2014
+Incremental Backup  Completed Successfully on: Mon Oct 20 23:17:16 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-10-20_15-05-02/2014-10-20_22-05-04
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 72 minutes
+completed: Mon Oct 20 23:17:16 IST 2014
+**********Wallet-XtraDBbackup******: Tue Oct 21 03:05:01 IST 2014
+Backup  started on: Tue Oct 21 03:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Tue Oct 21 03:05:01 IST 2014
+Incremental Backup  Completed Successfully on: Tue Oct 21 04:12:17 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-10-20_15-05-02/2014-10-21_03-05-03
+Cleaning up old backups (older than 1440 minutes) and temporary files
+deleting 2014-10-19_22-05-02
+took 80 minutes
+completed: Tue Oct 21 04:25:58 IST 2014
+**********Wallet-XtraDBbackup******: Tue Oct 21 09:05:01 IST 2014
+Backup  started on: Tue Oct 21 09:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New full DB backup started on: Tue Oct 21 09:05:02 IST 2014
+Full DB Backup  Completed Successfully on: Tue Oct 21 12:37:03 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/base/2014-10-21_09-05-03
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 212 minutes
+completed: Tue Oct 21 12:37:03 IST 2014
+**********Wallet-XtraDBbackup******: Tue Oct 21 15:05:01 IST 2014
+Backup  started on: Tue Oct 21 15:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Tue Oct 21 15:05:02 IST 2014
+Incremental Backup  Completed Successfully on: Tue Oct 21 16:15:41 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-10-21_09-05-03/2014-10-21_15-05-03
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 70 minutes
+completed: Tue Oct 21 16:15:41 IST 2014
+**********Wallet-XtraDBbackup******: Tue Oct 21 22:05:01 IST 2014
+Backup  started on: Tue Oct 21 22:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Tue Oct 21 22:05:01 IST 2014
+Incremental Backup  Completed Successfully on: Tue Oct 21 23:18:53 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-10-21_09-05-03/2014-10-21_22-05-02
+Cleaning up old backups (older than 1440 minutes) and temporary files
+deleting 2014-10-20_15-05-02
+took 88 minutes
+completed: Tue Oct 21 23:33:59 IST 2014
+**********Wallet-XtraDBbackup******: Wed Oct 22 03:05:01 IST 2014
+Backup  started on: Wed Oct 22 03:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New full DB backup started on: Wed Oct 22 03:05:01 IST 2014
+Full DB Backup  Completed Successfully on: Wed Oct 22 06:44:57 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/base/2014-10-22_03-05-03
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 219 minutes
+completed: Wed Oct 22 06:44:57 IST 2014
+**********Wallet-XtraDBbackup******: Wed Oct 22 09:05:01 IST 2014
+Backup  started on: Wed Oct 22 09:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Wed Oct 22 09:05:01 IST 2014
+Incremental Backup  Completed Successfully on: Wed Oct 22 10:17:44 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-10-22_03-05-03/2014-10-22_09-05-03
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 72 minutes
+completed: Wed Oct 22 10:17:45 IST 2014
+**********Wallet-XtraDBbackup******: Wed Oct 22 15:05:01 IST 2014
+Backup  started on: Wed Oct 22 15:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Wed Oct 22 15:05:01 IST 2014
+Incremental Backup  Completed Successfully on: Wed Oct 22 16:17:42 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-10-22_03-05-03/2014-10-22_15-05-02
+Cleaning up old backups (older than 1440 minutes) and temporary files
+deleting 2014-10-21_09-05-03
+took 89 minutes
+completed: Wed Oct 22 16:34:35 IST 2014
+**********Wallet-XtraDBbackup******: Wed Oct 22 22:05:01 IST 2014
+Backup  started on: Wed Oct 22 22:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New full DB backup started on: Wed Oct 22 22:05:01 IST 2014
+Full DB Backup  Completed Successfully on: Thu Oct 23 01:46:26 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/base/2014-10-22_22-05-02
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 221 minutes
+completed: Thu Oct 23 01:46:26 IST 2014
+**********Wallet-XtraDBbackup******: Thu Oct 23 03:05:01 IST 2014
+Backup  started on: Thu Oct 23 03:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Thu Oct 23 03:05:02 IST 2014
+Incremental Backup  Completed Successfully on: Thu Oct 23 04:14:38 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-10-22_22-05-02/2014-10-23_03-05-03
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 69 minutes
+completed: Thu Oct 23 04:14:38 IST 2014
+**********Wallet-XtraDBbackup******: Thu Oct 23 13:05:01 IST 2014
+Backup  started on: Thu Oct 23 13:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Thu Oct 23 13:05:01 IST 2014
+Incremental Backup  Completed Successfully on: Thu Oct 23 14:20:45 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-10-22_22-05-02/2014-10-23_13-05-03
+Cleaning up old backups (older than 1440 minutes) and temporary files
+deleting 2014-10-22_03-05-03
+took 92 minutes
+completed: Thu Oct 23 14:37:45 IST 2014
+**********Wallet-XtraDBbackup******: Thu Oct 23 22:05:01 IST 2014
+Backup  started on: Thu Oct 23 22:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New full DB backup started on: Thu Oct 23 22:05:02 IST 2014
+Full DB Backup  Completed Successfully on: Fri Oct 24 01:34:54 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/base/2014-10-23_22-05-03
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 209 minutes
+completed: Fri Oct 24 01:34:54 IST 2014
+**********Wallet-XtraDBbackup******: Fri Oct 24 03:05:01 IST 2014
+Backup  started on: Fri Oct 24 03:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Fri Oct 24 03:05:01 IST 2014
+Incremental Backup  Completed Successfully on: Fri Oct 24 04:16:47 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-10-23_22-05-03/2014-10-24_03-05-02
+Cleaning up old backups (older than 1440 minutes) and temporary files
+deleting 2014-10-22_22-05-02
+took 89 minutes
+completed: Fri Oct 24 04:34:41 IST 2014
+**********Wallet-XtraDBbackup******: Fri Oct 24 13:05:01 IST 2014
+Backup  started on: Fri Oct 24 13:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Fri Oct 24 13:05:01 IST 2014
+Incremental Backup  Completed Successfully on: Fri Oct 24 14:21:11 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-10-23_22-05-03/2014-10-24_13-05-03
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 76 minutes
+completed: Fri Oct 24 14:21:11 IST 2014
+**********Wallet-XtraDBbackup******: Fri Oct 24 22:05:01 IST 2014
+Backup  started on: Fri Oct 24 22:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New full DB backup started on: Fri Oct 24 22:05:01 IST 2014
+Full DB Backup  Completed Successfully on: Sat Oct 25 01:49:04 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/base/2014-10-24_22-05-02
+Cleaning up old backups (older than 1440 minutes) and temporary files
+deleting 2014-10-23_22-05-03
+took 239 minutes
+completed: Sat Oct 25 02:04:47 IST 2014
+**********Wallet-XtraDBbackup******: Sat Oct 25 03:05:01 IST 2014
+Backup  started on: Sat Oct 25 03:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Sat Oct 25 03:05:01 IST 2014
+Incremental Backup  Completed Successfully on: Sat Oct 25 04:19:10 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-10-24_22-05-02/2014-10-25_03-05-02
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 74 minutes
+completed: Sat Oct 25 04:19:10 IST 2014
+**********Wallet-XtraDBbackup******: Sat Oct 25 13:05:01 IST 2014
+Backup  started on: Sat Oct 25 13:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Sat Oct 25 13:05:01 IST 2014
+Incremental Backup  Completed Successfully on: Sat Oct 25 14:26:55 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-10-24_22-05-02/2014-10-25_13-05-03
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 81 minutes
+completed: Sat Oct 25 14:26:56 IST 2014
+**********Wallet-XtraDBbackup******: Sat Oct 25 22:05:01 IST 2014
+Backup  started on: Sat Oct 25 22:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New full DB backup started on: Sat Oct 25 22:05:01 IST 2014
+Full DB Backup  Completed Successfully on: Sun Oct 26 01:38:54 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/base/2014-10-25_22-05-03
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 213 minutes
+completed: Sun Oct 26 01:38:54 IST 2014
+**********Wallet-XtraDBbackup******: Sun Oct 26 03:05:01 IST 2014
+Backup  started on: Sun Oct 26 03:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Sun Oct 26 03:05:01 IST 2014
+Incremental Backup  Completed Successfully on: Sun Oct 26 04:21:10 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-10-25_22-05-03/2014-10-26_03-05-02
+Cleaning up old backups (older than 1440 minutes) and temporary files
+deleting 2014-10-24_22-05-02
+took 94 minutes
+completed: Sun Oct 26 04:39:20 IST 2014
+**********Wallet-XtraDBbackup******: Sun Oct 26 13:05:01 IST 2014
+Backup  started on: Sun Oct 26 13:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Sun Oct 26 13:05:01 IST 2014
+Incremental Backup  Completed Successfully on: Sun Oct 26 14:31:48 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-10-25_22-05-03/2014-10-26_13-05-02
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 86 minutes
+completed: Sun Oct 26 14:31:48 IST 2014
+**********Wallet-XtraDBbackup******: Sun Oct 26 22:05:01 IST 2014
+Backup  started on: Sun Oct 26 22:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New full DB backup started on: Sun Oct 26 22:05:01 IST 2014
+Full DB Backup  Completed Successfully on: Mon Oct 27 01:48:22 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/base/2014-10-26_22-05-04
+Cleaning up old backups (older than 1440 minutes) and temporary files
+deleting 2014-10-25_22-05-03
+took 237 minutes
+completed: Mon Oct 27 02:02:32 IST 2014
+**********Wallet-XtraDBbackup******: Mon Oct 27 03:05:02 IST 2014
+Backup  started on: Mon Oct 27 03:05:02 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Mon Oct 27 03:05:02 IST 2014
+Incremental Backup  Completed Successfully on: Mon Oct 27 04:22:54 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-10-26_22-05-04/2014-10-27_03-05-04
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 77 minutes
+completed: Mon Oct 27 04:22:54 IST 2014
+**********Wallet-XtraDBbackup******: Mon Oct 27 13:05:01 IST 2014
+Backup  started on: Mon Oct 27 13:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Mon Oct 27 13:05:01 IST 2014
+Incremental Backup  Completed Successfully on: Mon Oct 27 14:28:28 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-10-26_22-05-04/2014-10-27_13-05-03
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 83 minutes
+completed: Mon Oct 27 14:28:28 IST 2014
+**********Wallet-XtraDBbackup******: Mon Oct 27 22:05:01 IST 2014
+Backup  started on: Mon Oct 27 22:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New full DB backup started on: Mon Oct 27 22:05:01 IST 2014
+Full DB Backup  Completed Successfully on: Tue Oct 28 02:03:30 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/base/2014-10-27_22-05-02
+Cleaning up old backups (older than 1440 minutes) and temporary files
+deleting 2014-10-26_22-05-04
+took 253 minutes
+completed: Tue Oct 28 02:18:52 IST 2014
+**********Wallet-XtraDBbackup******: Tue Oct 28 03:05:01 IST 2014
+Backup  started on: Tue Oct 28 03:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Tue Oct 28 03:05:02 IST 2014
+Incremental Backup  Completed Successfully on: Tue Oct 28 04:23:40 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-10-27_22-05-02/2014-10-28_03-05-03
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 78 minutes
+completed: Tue Oct 28 04:23:40 IST 2014
+**********Wallet-XtraDBbackup******: Tue Oct 28 13:05:01 IST 2014
+Backup  started on: Tue Oct 28 13:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Tue Oct 28 13:05:01 IST 2014
+Incremental Backup  Completed Successfully on: Tue Oct 28 14:27:54 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-10-27_22-05-02/2014-10-28_13-05-04
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 82 minutes
+completed: Tue Oct 28 14:27:54 IST 2014
+**********Wallet-XtraDBbackup******: Tue Oct 28 22:05:01 IST 2014
+Backup  started on: Tue Oct 28 22:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New full DB backup started on: Tue Oct 28 22:05:02 IST 2014
+Full DB Backup  Completed Successfully on: Wed Oct 29 01:48:02 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/base/2014-10-28_22-05-03
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 223 minutes
+completed: Wed Oct 29 01:48:02 IST 2014
+**********Wallet-XtraDBbackup******: Wed Oct 29 03:05:01 IST 2014
+Backup  started on: Wed Oct 29 03:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Wed Oct 29 03:05:01 IST 2014
+Incremental Backup  Completed Successfully on: Wed Oct 29 04:23:24 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-10-28_22-05-03/2014-10-29_03-05-02
+Cleaning up old backups (older than 1440 minutes) and temporary files
+deleting 2014-10-27_22-05-02
+took 96 minutes
+completed: Wed Oct 29 04:41:10 IST 2014
+**********Wallet-XtraDBbackup******: Wed Oct 29 13:05:01 IST 2014
+Backup  started on: Wed Oct 29 13:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Wed Oct 29 13:05:02 IST 2014
+Incremental Backup  Completed Successfully on: Wed Oct 29 14:24:34 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-10-28_22-05-03/2014-10-29_13-05-03
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 79 minutes
+completed: Wed Oct 29 14:24:34 IST 2014
+**********Wallet-XtraDBbackup******: Wed Oct 29 22:05:01 IST 2014
+Backup  started on: Wed Oct 29 22:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New full DB backup started on: Wed Oct 29 22:05:02 IST 2014
+Full DB Backup  Completed Successfully on: Thu Oct 30 01:58:24 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/base/2014-10-29_22-05-03
+Cleaning up old backups (older than 1440 minutes) and temporary files
+deleting 2014-10-28_22-05-03
+took 249 minutes
+completed: Thu Oct 30 02:14:14 IST 2014
+**********Wallet-XtraDBbackup******: Thu Oct 30 03:05:01 IST 2014
+Backup  started on: Thu Oct 30 03:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Thu Oct 30 03:05:01 IST 2014
+Incremental Backup  Completed Successfully on: Thu Oct 30 04:20:59 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-10-29_22-05-03/2014-10-30_03-05-02
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 75 minutes
+completed: Thu Oct 30 04:20:59 IST 2014
+**********Wallet-XtraDBbackup******: Thu Oct 30 13:05:01 IST 2014
+Backup  started on: Thu Oct 30 13:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Thu Oct 30 13:05:01 IST 2014
+Incremental Backup  Completed Successfully on: Thu Oct 30 14:26:53 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-10-29_22-05-03/2014-10-30_13-05-03
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 81 minutes
+completed: Thu Oct 30 14:26:53 IST 2014
+**********Wallet-XtraDBbackup******: Thu Oct 30 22:05:01 IST 2014
+Backup  started on: Thu Oct 30 22:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New full DB backup started on: Thu Oct 30 22:05:01 IST 2014
+Full DB Backup  Completed Successfully on: Fri Oct 31 01:42:49 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/base/2014-10-30_22-05-03
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 217 minutes
+completed: Fri Oct 31 01:42:49 IST 2014
+**********Wallet-XtraDBbackup******: Fri Oct 31 03:05:01 IST 2014
+Backup  started on: Fri Oct 31 03:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Fri Oct 31 03:05:01 IST 2014
+Incremental Backup  Completed Successfully on: Fri Oct 31 04:23:06 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-10-30_22-05-03/2014-10-31_03-05-03
+Cleaning up old backups (older than 1440 minutes) and temporary files
+deleting 2014-10-29_22-05-03
+took 93 minutes
+completed: Fri Oct 31 04:38:53 IST 2014
+**********Wallet-XtraDBbackup******: Fri Oct 31 13:05:01 IST 2014
+Backup  started on: Fri Oct 31 13:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Fri Oct 31 13:05:01 IST 2014
+Incremental Backup  Completed Successfully on: Fri Oct 31 14:28:36 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-10-30_22-05-03/2014-10-31_13-05-02
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 83 minutes
+completed: Fri Oct 31 14:28:37 IST 2014
+**********Wallet-XtraDBbackup******: Fri Oct 31 22:05:01 IST 2014
+Backup  started on: Fri Oct 31 22:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New full DB backup started on: Fri Oct 31 22:05:02 IST 2014
+Full DB Backup  Completed Successfully on: Sat Nov  1 02:01:16 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/base/2014-10-31_22-05-04
+Cleaning up old backups (older than 1440 minutes) and temporary files
+deleting 2014-10-30_22-05-03
+took 254 minutes
+completed: Sat Nov  1 02:19:05 IST 2014
+**********Wallet-XtraDBbackup******: Sat Nov  1 03:05:01 IST 2014
+Backup  started on: Sat Nov  1 03:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Sat Nov  1 03:05:01 IST 2014
+Incremental Backup  Completed Successfully on: Sat Nov  1 04:25:50 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-10-31_22-05-04/2014-11-01_03-05-03
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 80 minutes
+completed: Sat Nov  1 04:25:50 IST 2014
+**********Wallet-XtraDBbackup******: Sat Nov  1 13:05:01 IST 2014
+Backup  started on: Sat Nov  1 13:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Sat Nov  1 13:05:01 IST 2014
+Incremental Backup  Completed Successfully on: Sat Nov  1 14:33:07 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-10-31_22-05-04/2014-11-01_13-05-02
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 88 minutes
+completed: Sat Nov  1 14:33:07 IST 2014
+**********Wallet-XtraDBbackup******: Sat Nov  1 22:05:01 IST 2014
+Backup  started on: Sat Nov  1 22:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New full DB backup started on: Sat Nov 1 22:05:01 IST 2014
+Full DB Backup  Completed Successfully on: Sun Nov  2 02:05:39 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/base/2014-11-01_22-05-03
+Cleaning up old backups (older than 1440 minutes) and temporary files
+deleting 2014-10-31_22-05-04
+took 256 minutes
+completed: Sun Nov  2 02:21:05 IST 2014
+**********Wallet-XtraDBbackup******: Sun Nov  2 03:05:01 IST 2014
+Backup  started on: Sun Nov  2 03:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Sun Nov  2 03:05:01 IST 2014
+Incremental Backup  Completed Successfully on: Sun Nov  2 04:23:05 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-11-01_22-05-03/2014-11-02_03-05-03
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 78 minutes
+completed: Sun Nov  2 04:23:06 IST 2014
+**********Wallet-XtraDBbackup******: Sun Nov  2 13:05:01 IST 2014
+Backup  started on: Sun Nov  2 13:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Sun Nov  2 13:05:01 IST 2014
+Incremental Backup  Completed Successfully on: Sun Nov  2 14:30:23 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-11-01_22-05-03/2014-11-02_13-05-02
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 85 minutes
+completed: Sun Nov  2 14:30:23 IST 2014
+**********Wallet-XtraDBbackup******: Sun Nov  2 22:05:01 IST 2014
+Backup  started on: Sun Nov  2 22:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New full DB backup started on: Sun Nov 2 22:05:01 IST 2014
+Full DB Backup  Completed Successfully on: Mon Nov  3 02:01:16 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/base/2014-11-02_22-05-02
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 236 minutes
+completed: Mon Nov  3 02:01:16 IST 2014
+**********Wallet-XtraDBbackup******: Mon Nov  3 03:05:01 IST 2014
+Backup  started on: Mon Nov  3 03:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Mon Nov  3 03:05:02 IST 2014
+Incremental Backup  Completed Successfully on: Mon Nov  3 04:27:22 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-11-02_22-05-02/2014-11-03_03-05-03
+Cleaning up old backups (older than 1440 minutes) and temporary files
+deleting 2014-11-01_22-05-03
+took 100 minutes
+completed: Mon Nov  3 04:45:04 IST 2014
+**********Wallet-XtraDBbackup******: Mon Nov  3 13:05:01 IST 2014
+Backup  started on: Mon Nov  3 13:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Mon Nov  3 13:05:01 IST 2014
+Incremental Backup  Completed Successfully on: Mon Nov  3 14:30:07 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-11-02_22-05-02/2014-11-03_13-05-02
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 85 minutes
+completed: Mon Nov  3 14:30:07 IST 2014
+**********Wallet-XtraDBbackup******: Mon Nov  3 22:05:01 IST 2014
+Backup  started on: Mon Nov  3 22:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New full DB backup started on: Mon Nov 3 22:05:01 IST 2014
+Full DB Backup  Completed Successfully on: Tue Nov  4 01:45:22 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/base/2014-11-03_22-05-02
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 220 minutes
+completed: Tue Nov  4 01:45:22 IST 2014
+**********Wallet-XtraDBbackup******: Tue Nov  4 03:05:01 IST 2014
+Backup  started on: Tue Nov  4 03:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Tue Nov  4 03:05:01 IST 2014
+Incremental Backup  Completed Successfully on: Tue Nov  4 04:23:52 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-11-03_22-05-02/2014-11-04_03-05-03
+Cleaning up old backups (older than 1440 minutes) and temporary files
+deleting 2014-11-02_22-05-02
+took 96 minutes
+completed: Tue Nov  4 04:41:03 IST 2014
+**********Wallet-XtraDBbackup******: Tue Nov  4 13:05:01 IST 2014
+Backup  started on: Tue Nov  4 13:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Tue Nov  4 13:05:01 IST 2014
+Incremental Backup  Completed Successfully on: Tue Nov  4 14:26:58 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-11-03_22-05-02/2014-11-04_13-05-03
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 81 minutes
+completed: Tue Nov  4 14:26:58 IST 2014
+**********Wallet-XtraDBbackup******: Tue Nov  4 22:05:01 IST 2014
+Backup  started on: Tue Nov  4 22:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New full DB backup started on: Tue Nov 4 22:05:01 IST 2014
+Full DB Backup  Completed Successfully on: Wed Nov  5 01:25:56 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/base/2014-11-04_22-05-02
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 200 minutes
+completed: Wed Nov  5 01:25:57 IST 2014
+**********Wallet-XtraDBbackup******: Wed Nov  5 03:05:01 IST 2014
+Backup  started on: Wed Nov  5 03:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Wed Nov  5 03:05:01 IST 2014
+Incremental Backup  Completed Successfully on: Wed Nov  5 04:04:16 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-11-04_22-05-02/2014-11-05_03-05-02
+Cleaning up old backups (older than 1440 minutes) and temporary files
+deleting 2014-11-03_22-05-02
+took 69 minutes
+completed: Wed Nov  5 04:14:47 IST 2014
+**********Wallet-XtraDBbackup******: Wed Nov  5 13:05:01 IST 2014
+Backup  started on: Wed Nov  5 13:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Wed Nov  5 13:05:01 IST 2014
+Incremental Backup  Completed Successfully on: Wed Nov  5 14:19:18 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-11-04_22-05-02/2014-11-05_13-05-02
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 74 minutes
+completed: Wed Nov  5 14:19:18 IST 2014
+**********Wallet-XtraDBbackup******: Wed Nov  5 22:05:01 IST 2014
+Backup  started on: Wed Nov  5 22:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New full DB backup started on: Wed Nov 5 22:05:02 IST 2014
+Full DB Backup  Completed Successfully on: Thu Nov  6 02:02:45 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/base/2014-11-05_22-05-03
+Cleaning up old backups (older than 1440 minutes) and temporary files
+deleting 2014-11-04_22-05-02
+took 247 minutes
+completed: Thu Nov  6 02:12:58 IST 2014
+**********Wallet-XtraDBbackup******: Thu Nov  6 03:05:01 IST 2014
+Backup  started on: Thu Nov  6 03:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Thu Nov  6 03:05:01 IST 2014
+Incremental Backup  Completed Successfully on: Thu Nov  6 04:05:13 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-11-05_22-05-03/2014-11-06_03-05-03
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 60 minutes
+completed: Thu Nov  6 04:05:13 IST 2014
+**********Wallet-XtraDBbackup******: Thu Nov  6 13:05:01 IST 2014
+Backup  started on: Thu Nov  6 13:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Thu Nov  6 13:05:01 IST 2014
+Incremental Backup  Completed Successfully on: Thu Nov  6 14:22:12 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-11-05_22-05-03/2014-11-06_13-05-02
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 77 minutes
+completed: Thu Nov  6 14:22:12 IST 2014
+**********Wallet-XtraDBbackup******: Thu Nov  6 22:05:01 IST 2014
+Backup  started on: Thu Nov  6 22:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New full DB backup started on: Thu Nov 6 22:05:01 IST 2014
+Full DB Backup  Completed Successfully on: Fri Nov  7 01:41:12 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/base/2014-11-06_22-05-02
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 216 minutes
+completed: Fri Nov  7 01:41:12 IST 2014
+**********Wallet-XtraDBbackup******: Fri Nov  7 03:05:01 IST 2014
+Backup  started on: Fri Nov  7 03:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Fri Nov  7 03:05:01 IST 2014
+Incremental Backup  Completed Successfully on: Fri Nov  7 04:05:43 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-11-06_22-05-02/2014-11-07_03-05-02
+Cleaning up old backups (older than 1440 minutes) and temporary files
+deleting 2014-11-05_22-05-03
+took 74 minutes
+completed: Fri Nov  7 04:19:41 IST 2014
+**********Wallet-XtraDBbackup******: Fri Nov  7 13:05:01 IST 2014
+Backup  started on: Fri Nov  7 13:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Fri Nov  7 13:05:01 IST 2014
+Incremental Backup  Completed Successfully on: Fri Nov  7 14:27:29 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-11-06_22-05-02/2014-11-07_13-05-02
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 82 minutes
+completed: Fri Nov  7 14:27:29 IST 2014
+**********Wallet-XtraDBbackup******: Fri Nov  7 22:05:01 IST 2014
+Backup  started on: Fri Nov  7 22:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New full DB backup started on: Fri Nov 7 22:05:01 IST 2014
+Full DB Backup  Completed Successfully on: Sat Nov  8 02:07:01 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/base/2014-11-07_22-05-02
+Cleaning up old backups (older than 1440 minutes) and temporary files
+deleting 2014-11-06_22-05-02
+took 256 minutes
+completed: Sat Nov  8 02:21:26 IST 2014
+**********Wallet-XtraDBbackup******: Sat Nov  8 03:05:02 IST 2014
+Backup  started on: Sat Nov  8 03:05:02 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Sat Nov  8 03:05:02 IST 2014
+Incremental Backup  Completed Successfully on: Sat Nov  8 04:29:54 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-11-07_22-05-02/2014-11-08_03-05-03
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 84 minutes
+completed: Sat Nov  8 04:29:54 IST 2014
+**********Wallet-XtraDBbackup******: Sat Nov  8 13:05:01 IST 2014
+Backup  started on: Sat Nov  8 13:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Sat Nov  8 13:05:02 IST 2014
+Incremental Backup  Completed Successfully on: Sat Nov  8 14:31:19 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-11-07_22-05-02/2014-11-08_13-05-03
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 86 minutes
+completed: Sat Nov  8 14:31:19 IST 2014
+**********Wallet-XtraDBbackup******: Sat Nov  8 22:05:02 IST 2014
+Backup  started on: Sat Nov  8 22:05:02 IST 2014 
+----------------------------------
+Check completed OK
+New full DB backup started on: Sat Nov 8 22:05:02 IST 2014
+Full DB Backup  Completed Successfully on: Sun Nov  9 01:43:59 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/base/2014-11-08_22-05-04
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 218 minutes
+completed: Sun Nov  9 01:43:59 IST 2014
+**********Wallet-XtraDBbackup******: Sun Nov  9 03:05:01 IST 2014
+Backup  started on: Sun Nov  9 03:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Sun Nov  9 03:05:01 IST 2014
+Incremental Backup  Completed Successfully on: Sun Nov  9 04:21:36 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-11-08_22-05-04/2014-11-09_03-05-02
+Cleaning up old backups (older than 1440 minutes) and temporary files
+deleting 2014-11-07_22-05-02
+took 91 minutes
+completed: Sun Nov  9 04:36:13 IST 2014
+**********Wallet-XtraDBbackup******: Sun Nov  9 13:05:02 IST 2014
+Backup  started on: Sun Nov  9 13:05:02 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Sun Nov  9 13:05:02 IST 2014
+Incremental Backup  Completed Successfully on: Sun Nov  9 14:28:49 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-11-08_22-05-04/2014-11-09_13-05-04
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 83 minutes
+completed: Sun Nov  9 14:28:49 IST 2014
+**********Wallet-XtraDBbackup******: Sun Nov  9 22:05:01 IST 2014
+Backup  started on: Sun Nov  9 22:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New full DB backup started on: Sun Nov 9 22:05:01 IST 2014
+Full DB Backup  Completed Successfully on: Mon Nov 10 02:08:03 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/base/2014-11-09_22-05-02
+Cleaning up old backups (older than 1440 minutes) and temporary files
+deleting 2014-11-08_22-05-04
+took 258 minutes
+completed: Mon Nov 10 02:23:05 IST 2014
+**********Wallet-XtraDBbackup******: Mon Nov 10 03:05:02 IST 2014
+Backup  started on: Mon Nov 10 03:05:02 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Mon Nov 10 03:05:02 IST 2014
+Incremental Backup  Completed Successfully on: Mon Nov 10 04:07:25 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-11-09_22-05-02/2014-11-10_03-05-04
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 62 minutes
+completed: Mon Nov 10 04:07:25 IST 2014
+**********Wallet-XtraDBbackup******: Mon Nov 10 13:05:01 IST 2014
+Backup  started on: Mon Nov 10 13:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Mon Nov 10 13:05:02 IST 2014
+Incremental Backup  Completed Successfully on: Mon Nov 10 14:23:12 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-11-09_22-05-02/2014-11-10_13-05-03
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 78 minutes
+completed: Mon Nov 10 14:23:12 IST 2014
+**********Wallet-XtraDBbackup******: Mon Nov 10 20:05:01 IST 2014
+Backup  started on: Mon Nov 10 20:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New full DB backup started on: Mon Nov 10 20:05:01 IST 2014
+Full DB Backup  Completed Successfully on: Mon Nov 10 23:46:32 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/base/2014-11-10_20-05-02
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 221 minutes
+completed: Mon Nov 10 23:46:32 IST 2014
+**********Wallet-XtraDBbackup******: Tue Nov 11 03:05:01 IST 2014
+Backup  started on: Tue Nov 11 03:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Tue Nov 11 03:05:01 IST 2014
+Incremental Backup  Completed Successfully on: Tue Nov 11 04:08:29 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-11-10_20-05-02/2014-11-11_03-05-03
+Cleaning up old backups (older than 1440 minutes) and temporary files
+deleting 2014-11-09_22-05-02
+took 77 minutes
+completed: Tue Nov 11 04:22:36 IST 2014
+**********Wallet-XtraDBbackup******: Tue Nov 11 13:05:01 IST 2014
+Backup  started on: Tue Nov 11 13:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New full DB backup started on: Tue Nov 11 13:05:01 IST 2014
+Full DB Backup  Completed Successfully on: Tue Nov 11 16:40:31 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/base/2014-11-11_13-05-02
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 215 minutes
+completed: Tue Nov 11 16:40:33 IST 2014
+**********Wallet-XtraDBbackup******: Tue Nov 11 20:05:01 IST 2014
+Backup  started on: Tue Nov 11 20:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Tue Nov 11 20:05:02 IST 2014
+Incremental Backup  Completed Successfully on: Tue Nov 11 21:27:30 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-11-11_13-05-02/2014-11-11_20-05-03
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 82 minutes
+completed: Tue Nov 11 21:27:30 IST 2014
+**********Wallet-XtraDBbackup******: Wed Nov 12 03:05:01 IST 2014
+Backup  started on: Wed Nov 12 03:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Wed Nov 12 03:05:01 IST 2014
+Incremental Backup  Completed Successfully on: Wed Nov 12 04:09:55 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-11-11_13-05-02/2014-11-12_03-05-02
+Cleaning up old backups (older than 1440 minutes) and temporary files
+deleting 2014-11-10_20-05-02
+took 75 minutes
+completed: Wed Nov 12 04:20:29 IST 2014
+**********Wallet-XtraDBbackup******: Wed Nov 12 13:05:01 IST 2014
+Backup  started on: Wed Nov 12 13:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New full DB backup started on: Wed Nov 12 13:05:01 IST 2014
+Full DB Backup  Completed Successfully on: Wed Nov 12 16:34:19 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/base/2014-11-12_13-05-02
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 209 minutes
+completed: Wed Nov 12 16:34:19 IST 2014
+**********Wallet-XtraDBbackup******: Wed Nov 12 20:05:01 IST 2014
+Backup  started on: Wed Nov 12 20:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Wed Nov 12 20:05:01 IST 2014
+Incremental Backup  Completed Successfully on: Wed Nov 12 21:28:47 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-11-12_13-05-02/2014-11-12_20-05-04
+Cleaning up old backups (older than 1440 minutes) and temporary files
+deleting 2014-11-11_13-05-02
+took 99 minutes
+completed: Wed Nov 12 21:44:40 IST 2014
+**********Wallet-XtraDBbackup******: Thu Nov 13 03:05:01 IST 2014
+Backup  started on: Thu Nov 13 03:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Thu Nov 13 03:05:01 IST 2014
+Incremental Backup  Completed Successfully on: Thu Nov 13 04:11:27 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-11-12_13-05-02/2014-11-13_03-05-02
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 66 minutes
+completed: Thu Nov 13 04:11:27 IST 2014
+**********Wallet-XtraDBbackup******: Thu Nov 13 13:05:01 IST 2014
+Backup  started on: Thu Nov 13 13:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New full DB backup started on: Thu Nov 13 13:05:01 IST 2014
+Full DB Backup  Completed Successfully on: Thu Nov 13 17:03:48 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/base/2014-11-13_13-05-02
+Cleaning up old backups (older than 1440 minutes) and temporary files
+deleting 2014-11-12_13-05-02
+took 253 minutes
+completed: Thu Nov 13 17:18:56 IST 2014
+**********Wallet-XtraDBbackup******: Thu Nov 13 20:05:02 IST 2014
+Backup  started on: Thu Nov 13 20:05:02 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Thu Nov 13 20:05:02 IST 2014
+Incremental Backup  Completed Successfully on: Thu Nov 13 21:28:21 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-11-13_13-05-02/2014-11-13_20-05-03
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 83 minutes
+completed: Thu Nov 13 21:28:21 IST 2014
+**********Wallet-XtraDBbackup******: Fri Nov 14 03:05:01 IST 2014
+Backup  started on: Fri Nov 14 03:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Fri Nov 14 03:05:01 IST 2014
+Incremental Backup  Completed Successfully on: Fri Nov 14 04:11:22 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-11-13_13-05-02/2014-11-14_03-05-02
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 66 minutes
+completed: Fri Nov 14 04:11:22 IST 2014
+**********Wallet-XtraDBbackup******: Fri Nov 14 13:05:01 IST 2014
+Backup  started on: Fri Nov 14 13:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New full DB backup started on: Fri Nov 14 13:05:01 IST 2014
+Full DB Backup  Completed Successfully on: Fri Nov 14 16:47:49 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/base/2014-11-14_13-05-02
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 222 minutes
+completed: Fri Nov 14 16:47:50 IST 2014
+**********Wallet-XtraDBbackup******: Fri Nov 14 20:05:01 IST 2014
+Backup  started on: Fri Nov 14 20:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Fri Nov 14 20:05:01 IST 2014
+Incremental Backup  Completed Successfully on: Fri Nov 14 21:29:17 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-11-14_13-05-02/2014-11-14_20-05-03
+Cleaning up old backups (older than 1440 minutes) and temporary files
+deleting 2014-11-13_13-05-02
+took 102 minutes
+completed: Fri Nov 14 21:47:21 IST 2014
+**********Wallet-XtraDBbackup******: Sat Nov 15 03:05:01 IST 2014
+Backup  started on: Sat Nov 15 03:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Sat Nov 15 03:05:01 IST 2014
+Incremental Backup  Completed Successfully on: Sat Nov 15 04:37:50 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-11-14_13-05-02/2014-11-15_03-05-03
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 92 minutes
+completed: Sat Nov 15 04:37:51 IST 2014
+**********Wallet-XtraDBbackup******: Sat Nov 15 13:05:02 IST 2014
+Backup  started on: Sat Nov 15 13:05:02 IST 2014 
+----------------------------------
+Check completed OK
+New full DB backup started on: Sat Nov 15 13:05:02 IST 2014
+Full DB Backup  Completed Successfully on: Sat Nov 15 17:11:47 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/base/2014-11-15_13-05-03
+Cleaning up old backups (older than 1440 minutes) and temporary files
+deleting 2014-11-14_13-05-02
+took 262 minutes
+completed: Sat Nov 15 17:27:22 IST 2014
+**********Wallet-XtraDBbackup******: Sat Nov 15 20:05:01 IST 2014
+Backup  started on: Sat Nov 15 20:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Sat Nov 15 20:05:01 IST 2014
+Incremental Backup  Completed Successfully on: Sat Nov 15 21:31:11 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-11-15_13-05-03/2014-11-15_20-05-02
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 86 minutes
+completed: Sat Nov 15 21:31:11 IST 2014
+**********Wallet-XtraDBbackup******: Sun Nov 16 03:05:01 IST 2014
+Backup  started on: Sun Nov 16 03:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Sun Nov 16 03:05:01 IST 2014
+Incremental Backup  Completed Successfully on: Sun Nov 16 04:34:07 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-11-15_13-05-03/2014-11-16_03-05-04
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 89 minutes
+completed: Sun Nov 16 04:34:08 IST 2014
+**********Wallet-XtraDBbackup******: Sun Nov 16 13:05:01 IST 2014
+Backup  started on: Sun Nov 16 13:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New full DB backup started on: Sun Nov 16 13:05:02 IST 2014
+Full DB Backup  Completed Successfully on: Sun Nov 16 16:57:18 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/base/2014-11-16_13-05-03
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 232 minutes
+completed: Sun Nov 16 16:57:19 IST 2014
+**********Wallet-XtraDBbackup******: Sun Nov 16 20:05:01 IST 2014
+Backup  started on: Sun Nov 16 20:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Sun Nov 16 20:05:01 IST 2014
+Incremental Backup  Completed Successfully on: Sun Nov 16 21:32:39 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-11-16_13-05-03/2014-11-16_20-05-03
+Cleaning up old backups (older than 1440 minutes) and temporary files
+deleting 2014-11-15_13-05-03
+took 106 minutes
+completed: Sun Nov 16 21:51:29 IST 2014
+**********Wallet-XtraDBbackup******: Mon Nov 17 03:05:02 IST 2014
+Backup  started on: Mon Nov 17 03:05:02 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Mon Nov 17 03:05:02 IST 2014
+Incremental Backup  Completed Successfully on: Mon Nov 17 04:34:41 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-11-16_13-05-03/2014-11-17_03-05-03
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 89 minutes
+completed: Mon Nov 17 04:34:41 IST 2014
+**********Wallet-XtraDBbackup******: Mon Nov 17 13:05:01 IST 2014
+Backup  started on: Mon Nov 17 13:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New full DB backup started on: Mon Nov 17 13:05:01 IST 2014
+Full DB Backup  Completed Successfully on: Mon Nov 17 17:15:40 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/base/2014-11-17_13-05-02
+Cleaning up old backups (older than 1440 minutes) and temporary files
+deleting 2014-11-16_13-05-03
+took 266 minutes
+completed: Mon Nov 17 17:31:32 IST 2014
+**********Wallet-XtraDBbackup******: Mon Nov 17 20:05:01 IST 2014
+Backup  started on: Mon Nov 17 20:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Mon Nov 17 20:05:02 IST 2014
+Incremental Backup  Completed Successfully on: Mon Nov 17 21:32:49 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-11-17_13-05-02/2014-11-17_20-05-03
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 87 minutes
+completed: Mon Nov 17 21:32:49 IST 2014
+**********Wallet-XtraDBbackup******: Tue Nov 18 03:05:01 IST 2014
+Backup  started on: Tue Nov 18 03:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Tue Nov 18 03:05:01 IST 2014
+Incremental Backup  Completed Successfully on: Tue Nov 18 04:36:01 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-11-17_13-05-02/2014-11-18_03-05-03
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 91 minutes
+completed: Tue Nov 18 04:36:01 IST 2014
+**********Wallet-XtraDBbackup******: Tue Nov 18 13:05:01 IST 2014
+Backup  started on: Tue Nov 18 13:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New full DB backup started on: Tue Nov 18 13:05:01 IST 2014
+Full DB Backup  Completed Successfully on: Tue Nov 18 17:04:28 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/base/2014-11-18_13-05-02
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 239 minutes
+completed: Tue Nov 18 17:04:29 IST 2014
+**********Wallet-XtraDBbackup******: Tue Nov 18 20:05:01 IST 2014
+Backup  started on: Tue Nov 18 20:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Tue Nov 18 20:05:01 IST 2014
+Incremental Backup  Completed Successfully on: Tue Nov 18 21:34:15 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-11-18_13-05-02/2014-11-18_20-05-03
+Cleaning up old backups (older than 1440 minutes) and temporary files
+deleting 2014-11-17_13-05-02
+took 108 minutes
+completed: Tue Nov 18 21:53:40 IST 2014
+**********Wallet-XtraDBbackup******: Wed Nov 19 03:05:01 IST 2014
+Backup  started on: Wed Nov 19 03:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Wed Nov 19 03:05:01 IST 2014
+Incremental Backup  Completed Successfully on: Wed Nov 19 04:36:58 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-11-18_13-05-02/2014-11-19_03-05-03
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 91 minutes
+completed: Wed Nov 19 04:36:58 IST 2014
+**********Wallet-XtraDBbackup******: Wed Nov 19 13:05:01 IST 2014
+Backup  started on: Wed Nov 19 13:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New full DB backup started on: Wed Nov 19 13:05:02 IST 2014
+Full DB Backup  Completed Successfully on: Wed Nov 19 17:32:28 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/base/2014-11-19_13-05-03
+Cleaning up old backups (older than 1440 minutes) and temporary files
+deleting 2014-11-18_13-05-02
+took 283 minutes
+completed: Wed Nov 19 17:48:12 IST 2014
+**********Wallet-XtraDBbackup******: Wed Nov 19 20:05:02 IST 2014
+Backup  started on: Wed Nov 19 20:05:02 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Wed Nov 19 20:05:02 IST 2014
+Incremental Backup  Completed Successfully on: Wed Nov 19 21:35:15 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-11-19_13-05-03/2014-11-19_20-05-03
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 90 minutes
+completed: Wed Nov 19 21:35:16 IST 2014
+**********Wallet-XtraDBbackup******: Thu Nov 20 03:05:01 IST 2014
+Backup  started on: Thu Nov 20 03:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Thu Nov 20 03:05:01 IST 2014
+Incremental Backup  Completed Successfully on: Thu Nov 20 04:38:56 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-11-19_13-05-03/2014-11-20_03-05-03
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 93 minutes
+completed: Thu Nov 20 04:38:56 IST 2014
+**********Wallet-XtraDBbackup******: Thu Nov 20 13:05:01 IST 2014
+Backup  started on: Thu Nov 20 13:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New full DB backup started on: Thu Nov 20 13:05:01 IST 2014
+Full DB Backup  Completed Successfully on: Thu Nov 20 17:19:44 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/base/2014-11-20_13-05-03
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 254 minutes
+completed: Thu Nov 20 17:19:44 IST 2014
+**********Wallet-XtraDBbackup******: Thu Nov 20 20:05:01 IST 2014
+Backup  started on: Thu Nov 20 20:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Thu Nov 20 20:05:01 IST 2014
+Incremental Backup  Completed Successfully on: Thu Nov 20 21:36:29 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-11-20_13-05-03/2014-11-20_20-05-03
+Cleaning up old backups (older than 1440 minutes) and temporary files
+deleting 2014-11-19_13-05-03
+took 110 minutes
+completed: Thu Nov 20 21:55:28 IST 2014
+**********Wallet-XtraDBbackup******: Fri Nov 21 03:05:01 IST 2014
+Backup  started on: Fri Nov 21 03:05:02 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Fri Nov 21 03:05:02 IST 2014
+Incremental Backup  Completed Successfully on: Fri Nov 21 04:39:35 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-11-20_13-05-03/2014-11-21_03-05-03
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 94 minutes
+completed: Fri Nov 21 04:39:35 IST 2014
+**********Wallet-XtraDBbackup******: Fri Nov 21 13:05:01 IST 2014
+Backup  started on: Fri Nov 21 13:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New full DB backup started on: Fri Nov 21 13:05:01 IST 2014
+Full DB Backup  Completed Successfully on: Fri Nov 21 17:28:13 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/base/2014-11-21_13-05-03
+Cleaning up old backups (older than 1440 minutes) and temporary files
+deleting 2014-11-20_13-05-03
+took 278 minutes
+completed: Fri Nov 21 17:43:38 IST 2014
+**********Wallet-XtraDBbackup******: Fri Nov 21 20:05:01 IST 2014
+Backup  started on: Fri Nov 21 20:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Fri Nov 21 20:05:01 IST 2014
+Incremental Backup  Completed Successfully on: Fri Nov 21 21:36:40 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-11-21_13-05-03/2014-11-21_20-05-03
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 91 minutes
+completed: Fri Nov 21 21:36:40 IST 2014
+**********Wallet-XtraDBbackup******: Sat Nov 22 03:05:01 IST 2014
+Backup  started on: Sat Nov 22 03:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Sat Nov 22 03:05:01 IST 2014
+Incremental Backup  Completed Successfully on: Sat Nov 22 04:42:35 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-11-21_13-05-03/2014-11-22_03-05-02
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 97 minutes
+completed: Sat Nov 22 04:42:36 IST 2014
+**********Wallet-XtraDBbackup******: Sat Nov 22 13:05:01 IST 2014
+Backup  started on: Sat Nov 22 13:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New full DB backup started on: Sat Nov 22 13:05:01 IST 2014
+Full DB Backup  Completed Successfully on: Sat Nov 22 17:25:23 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/base/2014-11-22_13-05-03
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 260 minutes
+completed: Sat Nov 22 17:25:23 IST 2014
+**********Wallet-XtraDBbackup******: Sat Nov 22 20:05:01 IST 2014
+Backup  started on: Sat Nov 22 20:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Sat Nov 22 20:05:01 IST 2014
+Incremental Backup  Completed Successfully on: Sat Nov 22 21:40:37 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-11-22_13-05-03/2014-11-22_20-05-03
+Cleaning up old backups (older than 1440 minutes) and temporary files
+deleting 2014-11-21_13-05-03
+took 116 minutes
+completed: Sat Nov 22 22:01:31 IST 2014
+**********Wallet-XtraDBbackup******: Sun Nov 23 03:05:01 IST 2014
+Backup  started on: Sun Nov 23 03:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Sun Nov 23 03:05:01 IST 2014
+Incremental Backup  Completed Successfully on: Sun Nov 23 04:42:31 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-11-22_13-05-03/2014-11-23_03-05-03
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 97 minutes
+completed: Sun Nov 23 04:42:31 IST 2014
+**********Wallet-XtraDBbackup******: Sun Nov 23 13:05:02 IST 2014
+Backup  started on: Sun Nov 23 13:05:02 IST 2014 
+----------------------------------
+Check completed OK
+New full DB backup started on: Sun Nov 23 13:05:02 IST 2014
+Full DB Backup  Completed Successfully on: Sun Nov 23 17:36:10 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/base/2014-11-23_13-05-04
+Cleaning up old backups (older than 1440 minutes) and temporary files
+deleting 2014-11-22_13-05-03
+took 287 minutes
+completed: Sun Nov 23 17:52:02 IST 2014
+**********Wallet-XtraDBbackup******: Sun Nov 23 20:05:01 IST 2014
+Backup  started on: Sun Nov 23 20:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Sun Nov 23 20:05:01 IST 2014
+Incremental Backup  Completed Successfully on: Sun Nov 23 21:41:31 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-11-23_13-05-04/2014-11-23_20-05-03
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 96 minutes
+completed: Sun Nov 23 21:41:32 IST 2014
+**********Wallet-XtraDBbackup******: Mon Nov 24 03:05:01 IST 2014
+Backup  started on: Mon Nov 24 03:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Mon Nov 24 03:05:02 IST 2014
+Incremental Backup  Completed Successfully on: Mon Nov 24 04:45:18 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-11-23_13-05-04/2014-11-24_03-05-03
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 100 minutes
+completed: Mon Nov 24 04:45:18 IST 2014
+**********Wallet-XtraDBbackup******: Mon Nov 24 13:05:01 IST 2014
+Backup  started on: Mon Nov 24 13:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New full DB backup started on: Mon Nov 24 13:05:02 IST 2014
+Full DB Backup  Completed Successfully on: Mon Nov 24 17:32:03 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/base/2014-11-24_13-05-03
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 267 minutes
+completed: Mon Nov 24 17:32:04 IST 2014
+**********Wallet-XtraDBbackup******: Mon Nov 24 20:05:01 IST 2014
+Backup  started on: Mon Nov 24 20:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Mon Nov 24 20:05:01 IST 2014
+Incremental Backup  Completed Successfully on: Mon Nov 24 21:42:32 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-11-24_13-05-03/2014-11-24_20-05-03
+Cleaning up old backups (older than 1440 minutes) and temporary files
+deleting 2014-11-23_13-05-04
+took 117 minutes
+completed: Mon Nov 24 22:02:17 IST 2014
+**********Wallet-XtraDBbackup******: Tue Nov 25 03:05:01 IST 2014
+Backup  started on: Tue Nov 25 03:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Tue Nov 25 03:05:01 IST 2014
+Incremental Backup  Completed Successfully on: Tue Nov 25 04:41:29 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-11-24_13-05-03/2014-11-25_03-05-03
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 96 minutes
+completed: Tue Nov 25 04:41:30 IST 2014
+**********Wallet-XtraDBbackup******: Tue Nov 25 13:05:01 IST 2014
+Backup  started on: Tue Nov 25 13:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New full DB backup started on: Tue Nov 25 13:05:01 IST 2014
+Full DB Backup  Completed Successfully on: Tue Nov 25 17:53:32 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/base/2014-11-25_13-05-02
+Cleaning up old backups (older than 1440 minutes) and temporary files
+deleting 2014-11-24_13-05-03
+took 305 minutes
+completed: Tue Nov 25 18:10:26 IST 2014
+**********Wallet-XtraDBbackup******: Tue Nov 25 20:05:02 IST 2014
+Backup  started on: Tue Nov 25 20:05:02 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Tue Nov 25 20:05:02 IST 2014
+Incremental Backup  Completed Successfully on: Tue Nov 25 21:41:15 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-11-25_13-05-02/2014-11-25_20-05-04
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 96 minutes
+completed: Tue Nov 25 21:41:16 IST 2014
+**********Wallet-XtraDBbackup******: Wed Nov 26 03:05:01 IST 2014
+Backup  started on: Wed Nov 26 03:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Wed Nov 26 03:05:01 IST 2014
+Incremental Backup  Completed Successfully on: Wed Nov 26 04:43:46 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-11-25_13-05-02/2014-11-26_03-05-03
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 98 minutes
+completed: Wed Nov 26 04:43:46 IST 2014
+**********Wallet-XtraDBbackup******: Wed Nov 26 13:05:01 IST 2014
+Backup  started on: Wed Nov 26 13:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New full DB backup started on: Wed Nov 26 13:05:01 IST 2014
+Full DB Backup  Completed Successfully on: Wed Nov 26 17:35:07 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/base/2014-11-26_13-05-02
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 270 minutes
+completed: Wed Nov 26 17:35:08 IST 2014
+**********Wallet-XtraDBbackup******: Wed Nov 26 20:05:01 IST 2014
+Backup  started on: Wed Nov 26 20:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Wed Nov 26 20:05:01 IST 2014
+Incremental Backup  Completed Successfully on: Wed Nov 26 21:44:24 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-11-26_13-05-02/2014-11-26_20-05-03
+Cleaning up old backups (older than 1440 minutes) and temporary files
+deleting 2014-11-25_13-05-02
+took 121 minutes
+completed: Wed Nov 26 22:06:29 IST 2014
+**********Wallet-XtraDBbackup******: Thu Nov 27 03:05:01 IST 2014
+Backup  started on: Thu Nov 27 03:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Thu Nov 27 03:05:02 IST 2014
+Incremental Backup  Completed Successfully on: Thu Nov 27 05:51:07 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-11-26_13-05-02/2014-11-27_03-05-06
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 166 minutes
+completed: Thu Nov 27 05:51:07 IST 2014
+**********Wallet-XtraDBbackup******: Thu Nov 27 13:05:01 IST 2014
+Backup  started on: Thu Nov 27 13:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New full DB backup started on: Thu Nov 27 13:05:01 IST 2014
+Full DB Backup  Completed Successfully on: Thu Nov 27 17:14:32 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/base/2014-11-27_13-05-03
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 249 minutes
+completed: Thu Nov 27 17:14:32 IST 2014
+**********Wallet-XtraDBbackup******: Thu Nov 27 20:05:01 IST 2014
+Backup  started on: Thu Nov 27 20:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Thu Nov 27 20:05:01 IST 2014
+Incremental Backup  Completed Successfully on: Thu Nov 27 21:39:01 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-11-27_13-05-03/2014-11-27_20-05-03
+Cleaning up old backups (older than 1440 minutes) and temporary files
+deleting 2014-11-26_13-05-02
+took 110 minutes
+completed: Thu Nov 27 21:55:58 IST 2014
+**********Wallet-XtraDBbackup******: Fri Nov 28 03:05:02 IST 2014
+Backup  started on: Fri Nov 28 03:05:02 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Fri Nov 28 03:05:04 IST 2014
+Incremental Backup  Completed Successfully on: Fri Nov 28 05:52:45 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-11-27_13-05-03/2014-11-28_03-05-09
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 167 minutes
+completed: Fri Nov 28 05:52:46 IST 2014
+**********Wallet-XtraDBbackup******: Fri Nov 28 13:05:01 IST 2014
+Backup  started on: Fri Nov 28 13:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New full DB backup started on: Fri Nov 28 13:05:01 IST 2014
+Full DB Backup  Completed Successfully on: Fri Nov 28 17:35:02 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/base/2014-11-28_13-05-03
+Cleaning up old backups (older than 1440 minutes) and temporary files
+deleting 2014-11-27_13-05-03
+took 285 minutes
+completed: Fri Nov 28 17:50:23 IST 2014
+**********Wallet-XtraDBbackup******: Fri Nov 28 20:05:01 IST 2014
+Backup  started on: Fri Nov 28 20:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Fri Nov 28 20:05:01 IST 2014
+Incremental Backup  Completed Successfully on: Fri Nov 28 21:40:54 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-11-28_13-05-03/2014-11-28_20-05-02
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 95 minutes
+completed: Fri Nov 28 21:40:54 IST 2014
+**********Wallet-XtraDBbackup******: Sat Nov 29 03:05:02 IST 2014
+Backup  started on: Sat Nov 29 03:05:02 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Sat Nov 29 03:05:04 IST 2014
+Incremental Backup  Completed Successfully on: Sat Nov 29 05:58:33 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-11-28_13-05-03/2014-11-29_03-05-09
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 173 minutes
+completed: Sat Nov 29 05:58:33 IST 2014
+**********Wallet-XtraDBbackup******: Sat Nov 29 13:05:01 IST 2014
+Backup  started on: Sat Nov 29 13:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New full DB backup started on: Sat Nov 29 13:05:01 IST 2014
+Full DB Backup  Completed Successfully on: Sat Nov 29 17:28:28 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/base/2014-11-29_13-05-03
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 263 minutes
+completed: Sat Nov 29 17:28:28 IST 2014
+**********Wallet-XtraDBbackup******: Sat Nov 29 20:05:01 IST 2014
+Backup  started on: Sat Nov 29 20:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Sat Nov 29 20:05:01 IST 2014
+Incremental Backup  Completed Successfully on: Sat Nov 29 21:46:04 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-11-29_13-05-03/2014-11-29_20-05-04
+Cleaning up old backups (older than 1440 minutes) and temporary files
+deleting 2014-11-28_13-05-03
+took 119 minutes
+completed: Sat Nov 29 22:04:40 IST 2014
+**********Wallet-XtraDBbackup******: Sun Nov 30 03:05:01 IST 2014
+Backup  started on: Sun Nov 30 03:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Sun Nov 30 03:05:03 IST 2014
+Incremental Backup  Completed Successfully on: Sun Nov 30 06:02:26 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-11-29_13-05-03/2014-11-30_03-05-06
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 177 minutes
+completed: Sun Nov 30 06:02:26 IST 2014
+**********Wallet-XtraDBbackup******: Sun Nov 30 13:05:05 IST 2014
+Backup  started on: Sun Nov 30 13:05:05 IST 2014 
+----------------------------------
+Check completed OK
+New full DB backup started on: Sun Nov 30 13:05:06 IST 2014
+Full DB Backup  Completed Successfully on: Sun Nov 30 17:40:02 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/base/2014-11-30_13-05-08
+Cleaning up old backups (older than 1440 minutes) and temporary files
+deleting 2014-11-29_13-05-03
+took 290 minutes
+completed: Sun Nov 30 17:55:34 IST 2014
+**********Wallet-XtraDBbackup******: Sun Nov 30 20:05:01 IST 2014
+Backup  started on: Sun Nov 30 20:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Sun Nov 30 20:05:02 IST 2014
+Incremental Backup  Completed Successfully on: Sun Nov 30 21:47:38 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-11-30_13-05-08/2014-11-30_20-05-04
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 102 minutes
+completed: Sun Nov 30 21:47:38 IST 2014
+**********Wallet-XtraDBbackup******: Mon Dec  1 03:05:02 IST 2014
+Backup  started on: Mon Dec  1 03:05:02 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Mon Dec  1 03:05:04 IST 2014
+Incremental Backup  Completed Successfully on: Mon Dec  1 06:03:58 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-11-30_13-05-08/2014-12-01_03-05-09
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 178 minutes
+completed: Mon Dec  1 06:03:58 IST 2014
+**********Wallet-XtraDBbackup******: Mon Dec  1 13:05:01 IST 2014
+Backup  started on: Mon Dec  1 13:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New full DB backup started on: Mon Dec 1 13:05:02 IST 2014
+Full DB Backup  Completed Successfully on: Mon Dec  1 17:34:33 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/base/2014-12-01_13-05-03
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 269 minutes
+completed: Mon Dec  1 17:34:34 IST 2014
+**********Wallet-XtraDBbackup******: Mon Dec  1 20:05:01 IST 2014
+Backup  started on: Mon Dec  1 20:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Mon Dec  1 20:05:01 IST 2014
+Incremental Backup  Completed Successfully on: Mon Dec  1 21:46:01 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-12-01_13-05-03/2014-12-01_20-05-03
+Cleaning up old backups (older than 1440 minutes) and temporary files
+deleting 2014-11-30_13-05-08
+took 121 minutes
+completed: Mon Dec  1 22:06:15 IST 2014
+**********Wallet-XtraDBbackup******: Tue Dec  2 03:05:03 IST 2014
+Backup  started on: Tue Dec  2 03:05:03 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Tue Dec  2 03:05:04 IST 2014
+Incremental Backup  Completed Successfully on: Tue Dec  2 05:52:19 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-12-01_13-05-03/2014-12-02_03-05-08
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 167 minutes
+completed: Tue Dec  2 05:52:19 IST 2014
+**********Wallet-XtraDBbackup******: Tue Dec  2 13:05:01 IST 2014
+Backup  started on: Tue Dec  2 13:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New full DB backup started on: Tue Dec 2 13:05:01 IST 2014
+Full DB Backup  Completed Successfully on: Tue Dec  2 17:36:09 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/base/2014-12-02_13-05-02
+Cleaning up old backups (older than 1440 minutes) and temporary files
+deleting 2014-12-01_13-05-03
+took 286 minutes
+completed: Tue Dec  2 17:51:17 IST 2014
+**********Wallet-XtraDBbackup******: Tue Dec  2 20:05:01 IST 2014
+Backup  started on: Tue Dec  2 20:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Tue Dec  2 20:05:01 IST 2014
+Incremental Backup  Completed Successfully on: Tue Dec  2 21:42:24 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-12-02_13-05-02/2014-12-02_20-05-03
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 97 minutes
+completed: Tue Dec  2 21:42:24 IST 2014
+**********Wallet-XtraDBbackup******: Wed Dec  3 03:05:01 IST 2014
+Backup  started on: Wed Dec  3 03:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Wed Dec  3 03:05:02 IST 2014
+Incremental Backup  Completed Successfully on: Wed Dec  3 05:41:02 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-12-02_13-05-02/2014-12-03_03-05-06
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 156 minutes
+completed: Wed Dec  3 05:41:03 IST 2014
+**********Wallet-XtraDBbackup******: Wed Dec  3 13:05:01 IST 2014
+Backup  started on: Wed Dec  3 13:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New full DB backup started on: Wed Dec 3 13:05:01 IST 2014
+Full DB Backup  Completed Successfully on: Wed Dec  3 17:25:41 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/base/2014-12-03_13-05-03
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 260 minutes
+completed: Wed Dec  3 17:25:42 IST 2014
+**********Wallet-XtraDBbackup******: Wed Dec  3 20:05:01 IST 2014
+Backup  started on: Wed Dec  3 20:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Wed Dec  3 20:05:01 IST 2014
+Incremental Backup  Completed Successfully on: Wed Dec  3 21:41:25 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-12-03_13-05-03/2014-12-03_20-05-03
+Cleaning up old backups (older than 1440 minutes) and temporary files
+deleting 2014-12-02_13-05-02
+took 115 minutes
+completed: Wed Dec  3 22:00:52 IST 2014
+**********Wallet-XtraDBbackup******: Thu Dec  4 03:05:02 IST 2014
+Backup  started on: Thu Dec  4 03:05:02 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Thu Dec  4 03:05:04 IST 2014
+Incremental Backup  Completed Successfully on: Thu Dec  4 05:39:43 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-12-03_13-05-03/2014-12-04_03-05-07
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 154 minutes
+completed: Thu Dec  4 05:39:43 IST 2014
+**********Wallet-XtraDBbackup******: Thu Dec  4 13:05:01 IST 2014
+Backup  started on: Thu Dec  4 13:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New full DB backup started on: Thu Dec 4 13:05:01 IST 2014
+Full DB Backup  Completed Successfully on: Thu Dec  4 17:30:56 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/base/2014-12-04_13-05-03
+Cleaning up old backups (older than 1440 minutes) and temporary files
+deleting 2014-12-03_13-05-03
+took 280 minutes
+completed: Thu Dec  4 17:45:22 IST 2014
+**********Wallet-XtraDBbackup******: Thu Dec  4 20:05:01 IST 2014
+Backup  started on: Thu Dec  4 20:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Thu Dec  4 20:05:01 IST 2014
+Incremental Backup  Completed Successfully on: Thu Dec  4 21:41:49 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-12-04_13-05-03/2014-12-04_20-05-03
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 96 minutes
+completed: Thu Dec  4 21:41:49 IST 2014
+**********Wallet-XtraDBbackup******: Fri Dec  5 03:05:02 IST 2014
+Backup  started on: Fri Dec  5 03:05:02 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Fri Dec  5 03:05:04 IST 2014
+Incremental Backup  Completed Successfully on: Fri Dec  5 05:42:27 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-12-04_13-05-03/2014-12-05_03-05-08
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 157 minutes
+completed: Fri Dec  5 05:42:27 IST 2014
+**********Wallet-XtraDBbackup******: Fri Dec  5 13:05:01 IST 2014
+Backup  started on: Fri Dec  5 13:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New full DB backup started on: Fri Dec 5 13:05:01 IST 2014
+Full DB Backup  Completed Successfully on: Fri Dec  5 17:26:58 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/base/2014-12-05_13-05-03
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 261 minutes
+completed: Fri Dec  5 17:26:58 IST 2014
+**********Wallet-XtraDBbackup******: Fri Dec  5 20:05:01 IST 2014
+Backup  started on: Fri Dec  5 20:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Fri Dec  5 20:05:01 IST 2014
+Incremental Backup  Completed Successfully on: Fri Dec  5 21:42:16 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-12-05_13-05-03/2014-12-05_20-05-02
+Cleaning up old backups (older than 1440 minutes) and temporary files
+deleting 2014-12-04_13-05-03
+took 116 minutes
+completed: Fri Dec  5 22:01:32 IST 2014
+**********Wallet-XtraDBbackup******: Sat Dec  6 03:05:03 IST 2014
+Backup  started on: Sat Dec  6 03:05:03 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Sat Dec  6 03:05:03 IST 2014
+Incremental Backup  Completed Successfully on: Sat Dec  6 05:47:05 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-12-05_13-05-03/2014-12-06_03-05-06
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 162 minutes
+completed: Sat Dec  6 05:47:06 IST 2014
+**********Wallet-XtraDBbackup******: Sat Dec  6 13:05:01 IST 2014
+Backup  started on: Sat Dec  6 13:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New full DB backup started on: Sat Dec 6 13:05:02 IST 2014
+Full DB Backup  Completed Successfully on: Sat Dec  6 17:41:23 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/base/2014-12-06_13-05-03
+Cleaning up old backups (older than 1440 minutes) and temporary files
+deleting 2014-12-05_13-05-03
+took 291 minutes
+completed: Sat Dec  6 17:56:46 IST 2014
+**********Wallet-XtraDBbackup******: Sat Dec  6 20:05:01 IST 2014
+Backup  started on: Sat Dec  6 20:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Sat Dec  6 20:05:01 IST 2014
+Incremental Backup  Completed Successfully on: Sat Dec  6 21:44:44 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-12-06_13-05-03/2014-12-06_20-05-03
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 99 minutes
+completed: Sat Dec  6 21:44:44 IST 2014
+**********Wallet-XtraDBbackup******: Sun Dec  7 03:05:01 IST 2014
+Backup  started on: Sun Dec  7 03:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Sun Dec  7 03:05:02 IST 2014
+Incremental Backup  Completed Successfully on: Sun Dec  7 05:46:53 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-12-06_13-05-03/2014-12-07_03-05-05
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 161 minutes
+completed: Sun Dec  7 05:46:53 IST 2014
+**********Wallet-XtraDBbackup******: Sun Dec  7 13:05:01 IST 2014
+Backup  started on: Sun Dec  7 13:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New full DB backup started on: Sun Dec 7 13:05:01 IST 2014
+Full DB Backup  Completed Successfully on: Sun Dec  7 17:35:31 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/base/2014-12-07_13-05-02
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 270 minutes
+completed: Sun Dec  7 17:35:31 IST 2014
+**********Wallet-XtraDBbackup******: Sun Dec  7 20:05:01 IST 2014
+Backup  started on: Sun Dec  7 20:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Sun Dec  7 20:05:01 IST 2014
+Incremental Backup  Completed Successfully on: Sun Dec  7 21:45:31 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-12-07_13-05-02/2014-12-07_20-05-03
+Cleaning up old backups (older than 1440 minutes) and temporary files
+deleting 2014-12-06_13-05-03
+took 120 minutes
+completed: Sun Dec  7 22:05:18 IST 2014
+**********Wallet-XtraDBbackup******: Mon Dec  8 03:05:02 IST 2014
+Backup  started on: Mon Dec  8 03:05:02 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Mon Dec  8 03:05:03 IST 2014
+Incremental Backup  Completed Successfully on: Mon Dec  8 05:47:26 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-12-07_13-05-02/2014-12-08_03-05-07
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 162 minutes
+completed: Mon Dec  8 05:47:26 IST 2014
+**********Wallet-XtraDBbackup******: Mon Dec  8 13:05:01 IST 2014
+Backup  started on: Mon Dec  8 13:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New full DB backup started on: Mon Dec 8 13:05:01 IST 2014
+Full DB Backup  Completed Successfully on: Mon Dec  8 17:40:01 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/base/2014-12-08_13-05-02
+Cleaning up old backups (older than 1440 minutes) and temporary files
+deleting 2014-12-07_13-05-02
+took 289 minutes
+completed: Mon Dec  8 17:54:19 IST 2014
+**********Wallet-XtraDBbackup******: Mon Dec  8 20:05:02 IST 2014
+Backup  started on: Mon Dec  8 20:05:02 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Mon Dec  8 20:05:02 IST 2014
+Incremental Backup  Completed Successfully on: Mon Dec  8 21:45:56 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-12-08_13-05-02/2014-12-08_20-05-04
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 100 minutes
+completed: Mon Dec  8 21:45:57 IST 2014
+**********Wallet-XtraDBbackup******: Tue Dec  9 03:05:02 IST 2014
+Backup  started on: Tue Dec  9 03:05:02 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Tue Dec  9 03:05:03 IST 2014
+Incremental Backup  Completed Successfully on: Tue Dec  9 05:46:45 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-12-08_13-05-02/2014-12-09_03-05-06
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 161 minutes
+completed: Tue Dec  9 05:46:45 IST 2014
+**********Wallet-XtraDBbackup******: Tue Dec  9 13:05:01 IST 2014
+Backup  started on: Tue Dec  9 13:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New full DB backup started on: Tue Dec 9 13:05:01 IST 2014
+Full DB Backup  Completed Successfully on: Tue Dec  9 17:28:33 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/base/2014-12-09_13-05-03
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 263 minutes
+completed: Tue Dec  9 17:28:33 IST 2014
+**********Wallet-XtraDBbackup******: Tue Dec  9 20:05:01 IST 2014
+Backup  started on: Tue Dec  9 20:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Tue Dec  9 20:05:01 IST 2014
+Incremental Backup  Completed Successfully on: Tue Dec  9 21:45:00 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-12-09_13-05-03/2014-12-09_20-05-02
+Cleaning up old backups (older than 1440 minutes) and temporary files
+deleting 2014-12-08_13-05-02
+took 118 minutes
+completed: Tue Dec  9 22:03:48 IST 2014
+**********Wallet-XtraDBbackup******: Wed Dec 10 03:05:01 IST 2014
+Backup  started on: Wed Dec 10 03:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Wed Dec 10 03:05:02 IST 2014
+Incremental Backup  Completed Successfully on: Wed Dec 10 05:49:40 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-12-09_13-05-03/2014-12-10_03-05-05
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 164 minutes
+completed: Wed Dec 10 05:49:40 IST 2014
+**********Wallet-XtraDBbackup******: Wed Dec 10 13:05:01 IST 2014
+Backup  started on: Wed Dec 10 13:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New full DB backup started on: Wed Dec 10 13:05:02 IST 2014
+Full DB Backup  Completed Successfully on: Wed Dec 10 17:35:15 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/base/2014-12-10_13-05-03
+Cleaning up old backups (older than 1440 minutes) and temporary files
+deleting 2014-12-09_13-05-03
+took 288 minutes
+completed: Wed Dec 10 17:53:14 IST 2014
+**********Wallet-XtraDBbackup******: Wed Dec 10 20:05:01 IST 2014
+Backup  started on: Wed Dec 10 20:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Wed Dec 10 20:05:01 IST 2014
+Incremental Backup  Completed Successfully on: Wed Dec 10 21:46:56 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-12-10_13-05-03/2014-12-10_20-05-03
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 101 minutes
+completed: Wed Dec 10 21:46:57 IST 2014
+**********Wallet-XtraDBbackup******: Thu Dec 11 03:05:01 IST 2014
+Backup  started on: Thu Dec 11 03:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Thu Dec 11 03:05:03 IST 2014
+Incremental Backup  Completed Successfully on: Thu Dec 11 06:12:50 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-12-10_13-05-03/2014-12-11_03-05-08
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 187 minutes
+completed: Thu Dec 11 06:12:50 IST 2014
+**********Wallet-XtraDBbackup******: Thu Dec 11 13:05:01 IST 2014
+Backup  started on: Thu Dec 11 13:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New full DB backup started on: Thu Dec 11 13:05:01 IST 2014
+Full DB Backup  Completed Successfully on: Thu Dec 11 17:41:52 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/base/2014-12-11_13-05-02
+Cleaning up old backups (older than 1440 minutes) and temporary files
+deleting 2014-12-10_13-05-03
+took 293 minutes
+completed: Thu Dec 11 17:58:56 IST 2014
+**********Wallet-XtraDBbackup******: Thu Dec 11 20:05:01 IST 2014
+Backup  started on: Thu Dec 11 20:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Thu Dec 11 20:05:01 IST 2014
+Incremental Backup  Completed Successfully on: Thu Dec 11 21:47:25 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-12-11_13-05-02/2014-12-11_20-05-03
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 102 minutes
+completed: Thu Dec 11 21:47:25 IST 2014
+**********Wallet-XtraDBbackup******: Fri Dec 12 03:05:01 IST 2014
+Backup  started on: Fri Dec 12 03:05:02 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Fri Dec 12 03:05:02 IST 2014
+Incremental Backup  Completed Successfully on: Fri Dec 12 06:12:55 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-12-11_13-05-02/2014-12-12_03-05-07
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 187 minutes
+completed: Fri Dec 12 06:12:55 IST 2014
+**********Wallet-XtraDBbackup******: Fri Dec 12 13:05:01 IST 2014
+Backup  started on: Fri Dec 12 13:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New full DB backup started on: Fri Dec 12 13:05:01 IST 2014
+Full DB Backup  Completed Successfully on: Fri Dec 12 17:39:15 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/base/2014-12-12_13-05-04
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 274 minutes
+completed: Fri Dec 12 17:39:16 IST 2014
+**********Wallet-XtraDBbackup******: Fri Dec 12 20:05:01 IST 2014
+Backup  started on: Fri Dec 12 20:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Fri Dec 12 20:05:01 IST 2014
+Incremental Backup  Completed Successfully on: Fri Dec 12 21:50:23 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-12-12_13-05-04/2014-12-12_20-05-04
+Cleaning up old backups (older than 1440 minutes) and temporary files
+deleting 2014-12-11_13-05-02
+took 123 minutes
+completed: Fri Dec 12 22:08:49 IST 2014
+**********Wallet-XtraDBbackup******: Sat Dec 13 03:05:02 IST 2014
+Backup  started on: Sat Dec 13 03:05:02 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Sat Dec 13 03:05:04 IST 2014
+Incremental Backup  Completed Successfully on: Sat Dec 13 06:16:54 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-12-12_13-05-04/2014-12-13_03-05-08
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 191 minutes
+completed: Sat Dec 13 06:16:54 IST 2014
+**********Wallet-XtraDBbackup******: Sat Dec 13 13:05:01 IST 2014
+Backup  started on: Sat Dec 13 13:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New full DB backup started on: Sat Dec 13 13:05:01 IST 2014
+Full DB Backup  Completed Successfully on: Sat Dec 13 17:42:03 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/base/2014-12-13_13-05-04
+Cleaning up old backups (older than 1440 minutes) and temporary files
+deleting 2014-12-12_13-05-04
+took 295 minutes
+completed: Sat Dec 13 18:00:21 IST 2014
+**********Wallet-XtraDBbackup******: Sat Dec 13 20:05:01 IST 2014
+Backup  started on: Sat Dec 13 20:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Sat Dec 13 20:05:01 IST 2014
+Incremental Backup  Completed Successfully on: Sat Dec 13 21:52:34 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-12-13_13-05-04/2014-12-13_20-05-03
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 107 minutes
+completed: Sat Dec 13 21:52:34 IST 2014
+**********Wallet-XtraDBbackup******: Sun Dec 14 03:05:01 IST 2014
+Backup  started on: Sun Dec 14 03:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Sun Dec 14 03:05:03 IST 2014
+Incremental Backup  Completed Successfully on: Sun Dec 14 06:21:37 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-12-13_13-05-04/2014-12-14_03-05-09
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 196 minutes
+completed: Sun Dec 14 06:21:38 IST 2014
+**********Wallet-XtraDBbackup******: Sun Dec 14 13:05:01 IST 2014
+Backup  started on: Sun Dec 14 13:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New full DB backup started on: Sun Dec 14 13:05:01 IST 2014
+Full DB Backup  Completed Successfully on: Sun Dec 14 17:50:19 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/base/2014-12-14_13-05-04
+Cleaning up old backups (older than 1440 minutes) and temporary files
+deleting 2014-12-13_13-05-04
+took 301 minutes
+completed: Sun Dec 14 18:06:45 IST 2014
+**********Wallet-XtraDBbackup******: Sun Dec 14 20:05:01 IST 2014
+Backup  started on: Sun Dec 14 20:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Sun Dec 14 20:05:01 IST 2014
+Incremental Backup  Completed Successfully on: Sun Dec 14 21:52:21 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-12-14_13-05-04/2014-12-14_20-05-03
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 107 minutes
+completed: Sun Dec 14 21:52:21 IST 2014
+**********Wallet-XtraDBbackup******: Mon Dec 15 03:05:03 IST 2014
+Backup  started on: Mon Dec 15 03:05:03 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Mon Dec 15 03:05:04 IST 2014
+Incremental Backup  Completed Successfully on: Mon Dec 15 06:20:50 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-12-14_13-05-04/2014-12-15_03-05-08
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 195 minutes
+completed: Mon Dec 15 06:20:50 IST 2014
+**********Wallet-XtraDBbackup******: Mon Dec 15 13:05:01 IST 2014
+Backup  started on: Mon Dec 15 13:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New full DB backup started on: Mon Dec 15 13:05:02 IST 2014
+Full DB Backup  Completed Successfully on: Mon Dec 15 17:44:03 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/base/2014-12-15_13-05-03
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 279 minutes
+completed: Mon Dec 15 17:44:05 IST 2014
+**********Wallet-XtraDBbackup******: Mon Dec 15 20:05:01 IST 2014
+Backup  started on: Mon Dec 15 20:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Mon Dec 15 20:05:01 IST 2014
+Incremental Backup  Completed Successfully on: Mon Dec 15 21:54:10 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-12-15_13-05-03/2014-12-15_20-05-04
+Cleaning up old backups (older than 1440 minutes) and temporary files
+deleting 2014-12-14_13-05-04
+took 130 minutes
+completed: Mon Dec 15 22:15:22 IST 2014
+**********Wallet-XtraDBbackup******: Tue Dec 16 03:05:01 IST 2014
+Backup  started on: Tue Dec 16 03:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Tue Dec 16 03:05:02 IST 2014
+Incremental Backup  Completed Successfully on: Tue Dec 16 06:26:26 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-12-15_13-05-03/2014-12-16_03-05-07
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 201 minutes
+completed: Tue Dec 16 06:26:27 IST 2014
+**********Wallet-XtraDBbackup******: Tue Dec 16 13:05:01 IST 2014
+Backup  started on: Tue Dec 16 13:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New full DB backup started on: Tue Dec 16 13:05:02 IST 2014
+Full DB Backup  Completed Successfully on: Tue Dec 16 17:53:20 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/base/2014-12-16_13-05-03
+Cleaning up old backups (older than 1440 minutes) and temporary files
+deleting 2014-12-15_13-05-03
+took 306 minutes
+completed: Tue Dec 16 18:11:12 IST 2014
+**********Wallet-XtraDBbackup******: Tue Dec 16 20:05:01 IST 2014
+Backup  started on: Tue Dec 16 20:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Tue Dec 16 20:05:02 IST 2014
+Incremental Backup  Completed Successfully on: Tue Dec 16 21:49:53 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-12-16_13-05-03/2014-12-16_20-05-04
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 104 minutes
+completed: Tue Dec 16 21:49:54 IST 2014
+**********Wallet-XtraDBbackup******: Wed Dec 17 03:05:01 IST 2014
+Backup  started on: Wed Dec 17 03:05:02 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Wed Dec 17 03:05:03 IST 2014
+Incremental Backup  Completed Successfully on: Wed Dec 17 06:01:36 IST 2014 
+Databases backed up successfully to: /mysqlbackup/PerconXtrabackup/DBBackup/incr/2014-12-16_13-05-03/2014-12-17_03-05-08
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 176 minutes
+completed: Wed Dec 17 06:01:36 IST 2014
+**********Wallet-XtraDBbackup******: Wed Dec 17 13:05:01 IST 2014
+Backup  started on: Wed Dec 17 13:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New full DB backup started on: Wed Dec 17 13:05:01 IST 2014
+Full DB Backup  Completed Successfully on: Wed Dec 17 17:50:46 IST 2014 
+
+---------- ERROR OUTPUT from  ----------
+**********Wallet-XtraDBbackup******: Wed Dec 17 20:05:01 IST 2014
+Backup  started on: Wed Dec 17 20:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Wed Dec 17 20:05:01 IST 2014
+Incremental Backup  Completed Successfully on: Wed Dec 17 20:05:04 IST 2014 
+
+---------- ERROR OUTPUT from  ----------
+**********Wallet-XtraDBbackup******: Thu Dec 18 03:05:03 IST 2014
+Backup  started on: Thu Dec 18 03:05:03 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Thu Dec 18 03:05:04 IST 2014
+Incremental Backup  Completed Successfully on: Thu Dec 18 03:05:12 IST 2014 
+
+---------- ERROR OUTPUT from  ----------
+**********Wallet-XtraDBbackup******: Thu Dec 18 13:05:01 IST 2014
+Backup  started on: Thu Dec 18 13:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New full DB backup started on: Thu Dec 18 13:05:01 IST 2014
+Full DB Backup  Completed Successfully on: Thu Dec 18 15:07:15 IST 2014 
+
+---------- ERROR OUTPUT from  ----------
+**********Wallet-XtraDBbackup******: Thu Dec 18 20:05:01 IST 2014
+Backup  started on: Thu Dec 18 20:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Thu Dec 18 20:05:01 IST 2014
+Incremental Backup  Completed Successfully on: Thu Dec 18 20:05:05 IST 2014 
+
+---------- ERROR OUTPUT from  ----------
+**********Wallet-XtraDBbackup******: Fri Dec 19 03:05:02 IST 2014
+Backup  started on: Fri Dec 19 03:05:02 IST 2014 
+----------------------------------
+Check completed OK
+New full DB backup started on: Fri Dec 19 03:05:03 IST 2014
+Full DB Backup  Completed Successfully on: Fri Dec 19 07:27:10 IST 2014 
+
+---------- ERROR OUTPUT from  ----------
+**********Wallet-XtraDBbackup******: Fri Dec 19 13:05:01 IST 2014
+Backup  started on: Fri Dec 19 13:05:01 IST 2014 
+----------------------------------
+Check completed OK
+New incremental backup:Fri Dec 19 13:05:02 IST 2014
+Incremental Backup  Completed Successfully on: Fri Dec 19 13:05:07 IST 2014 
+
+---------- ERROR OUTPUT from  ----------
+**********Wallet-XtraDBbackup******: Mon Jan  5 11:15:01 IST 2015
+Backup  started on: Mon Jan  5 11:15:01 IST 2015 
+----------------------------------
+Check completed OK
+New full DB backup started on: Mon Jan 5 11:15:01 IST 2015
+**********Wallet-XtraDBbackup******: Mon Jan  5 13:15:01 IST 2015
+Backup  started on: Mon Jan  5 13:15:01 IST 2015 
+----------------------------------
+Check completed OK
+New incremental backup:Mon Jan  5 13:15:02 IST 2015
+Incremental Backup  Completed Successfully on: Mon Jan  5 13:15:04 IST 2015 
+
+---------- ERROR OUTPUT from  ----------
+Full DB Backup  Completed Successfully on: Mon Jan  5 14:21:52 IST 2015 
+
+---------- ERROR OUTPUT from  ----------
+**********Wallet-XtraDBbackup******: Mon Jan  5 20:15:01 IST 2015
+Backup  started on: Mon Jan  5 20:15:01 IST 2015 
+----------------------------------
+Check completed OK
+New incremental backup:Mon Jan  5 20:15:01 IST 2015
+Incremental Backup  Completed Successfully on: Mon Jan  5 20:15:03 IST 2015 
+
+---------- ERROR OUTPUT from  ----------
+**********Wallet-XtraDBbackup******: Tue Jan  6 01:15:01 IST 2015
+Backup  started on: Tue Jan  6 01:15:01 IST 2015 
+----------------------------------
+Check completed OK
+New incremental backup:Tue Jan  6 01:15:01 IST 2015
+Incremental Backup  Completed Successfully on: Tue Jan  6 01:15:03 IST 2015 
+
+---------- ERROR OUTPUT from  ----------
+**********Wallet-XtraDBbackup******: Tue Jan  6 11:45:01 IST 2015
+Backup  started on: Tue Jan  6 11:45:01 IST 2015 
+----------------------------------
+Check completed OK
+New full DB backup started on: Tue Jan 6 11:45:01 IST 2015
+Full DB Backup  Completed Successfully on: Tue Jan  6 15:00:10 IST 2015 
+Databases backed up successfully to: /mysql/PerconXtrabackup/DBBackup/base/2015-01-06_11-45-04
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 195 minutes
+completed: Tue Jan  6 15:00:11 IST 2015
+**********Wallet-XtraDBbackup******: Tue Jan  6 18:35:01 IST 2015
+Backup  started on: Tue Jan  6 18:35:01 IST 2015 
+----------------------------------
+Check completed OK
+New incremental backup:Tue Jan  6 18:35:01 IST 2015
+Incremental Backup  Completed Successfully on: Tue Jan  6 20:07:16 IST 2015 
+Databases backed up successfully to: /mysql/PerconXtrabackup/DBBackup/incr/2015-01-06_11-45-04/2015-01-06_18-35-03
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 92 minutes
+completed: Tue Jan  6 20:07:16 IST 2015
+**********Wallet-XtraDBbackup******: Tue Jan  6 21:02:21 IST 2015
+Backup  started on: Tue Jan  6 21:02:21 IST 2015 
+----------------------------------
+Check completed OK
+New incremental backup:Tue Jan  6 21:02:21 IST 2015
+Incremental Backup  Completed Successfully on: Tue Jan  6 22:27:09 IST 2015 
+Databases backed up successfully to: /mysql/PerconXtrabackup/DBBackup/incr/2015-01-06_11-45-04/2015-01-06_21-02-22
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 84 minutes
+completed: Tue Jan  6 22:27:09 IST 2015
+**********Wallet-XtraDBbackup******: Wed Jan  7 03:35:02 IST 2015
+Backup  started on: Wed Jan  7 03:35:02 IST 2015 
+----------------------------------
+Check completed OK
+New full DB backup started on: Wed Jan 7 03:35:04 IST 2015
+Full DB Backup  Completed Successfully on: Wed Jan  7 10:07:50 IST 2015 
+Databases backed up successfully to: /mysql/PerconXtrabackup/DBBackup/base/2015-01-07_03-35-07
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 392 minutes
+completed: Wed Jan  7 10:07:50 IST 2015
+**********Wallet-XtraDBbackup******: Wed Jan  7 11:35:03 IST 2015
+Backup  started on: Wed Jan  7 11:35:03 IST 2015 
+----------------------------------
+Check completed OK
+New incremental backup:Wed Jan  7 11:35:04 IST 2015
+Incremental Backup  Completed Successfully on: Wed Jan  7 13:02:33 IST 2015 
+Databases backed up successfully to: /mysql/PerconXtrabackup/DBBackup/incr/2015-01-07_03-35-07/2015-01-07_11-35-05
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 87 minutes
+completed: Wed Jan  7 13:02:33 IST 2015
+**********Wallet-XtraDBbackup******: Thu Jan  8 03:35:02 IST 2015
+Backup  started on: Thu Jan  8 03:35:02 IST 2015 
+----------------------------------
+Check completed OK
+New full DB backup started on: Thu Jan 8 03:35:04 IST 2015
+Full DB Backup  Completed Successfully on: Thu Jan  8 10:19:51 IST 2015 
+Databases backed up successfully to: /mysql/PerconXtrabackup/DBBackup/base/2015-01-08_03-35-06
+Cleaning up old backups (older than 1440 minutes) and temporary files
+deleting 2015-01-07_03-35-07
+took 410 minutes
+completed: Thu Jan  8 10:25:03 IST 2015
+**********Wallet-XtraDBbackup******: Thu Jan  8 11:35:01 IST 2015
+Backup  started on: Thu Jan  8 11:35:01 IST 2015 
+----------------------------------
+Check completed OK
+New incremental backup:Thu Jan  8 11:35:01 IST 2015
+Incremental Backup  Completed Successfully on: Thu Jan  8 12:44:54 IST 2015 
+Databases backed up successfully to: /mysql/PerconXtrabackup/DBBackup/incr/2015-01-08_03-35-06/2015-01-08_11-35-02
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 69 minutes
+completed: Thu Jan  8 12:44:54 IST 2015
+**********Wallet-XtraDBbackup******: Fri Jan  9 03:35:01 IST 2015
+Backup  started on: Fri Jan  9 03:35:01 IST 2015 
+----------------------------------
+Check completed OK
+New full DB backup started on: Fri Jan 9 03:35:02 IST 2015
+Full DB Backup  Completed Successfully on: Fri Jan  9 10:17:08 IST 2015 
+Databases backed up successfully to: /mysql/PerconXtrabackup/DBBackup/base/2015-01-09_03-35-07
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 402 minutes
+completed: Fri Jan  9 10:17:08 IST 2015
+**********Wallet-XtraDBbackup******: Fri Jan  9 11:35:01 IST 2015
+Backup  started on: Fri Jan  9 11:35:01 IST 2015 
+----------------------------------
+Check completed OK
+New incremental backup:Fri Jan  9 11:35:02 IST 2015
+Incremental Backup  Completed Successfully on: Fri Jan  9 13:04:24 IST 2015 
+Databases backed up successfully to: /mysql/PerconXtrabackup/DBBackup/incr/2015-01-09_03-35-07/2015-01-09_11-35-04
+Cleaning up old backups (older than 1440 minutes) and temporary files
+deleting 2015-01-08_03-35-06
+took 95 minutes
+completed: Fri Jan  9 13:10:43 IST 2015
+**********Wallet-XtraDBbackup******: Sat Jan 10 03:35:02 IST 2015
+Backup  started on: Sat Jan 10 03:35:02 IST 2015 
+----------------------------------
+Check completed OK
+New full DB backup started on: Sat Jan 10 03:35:03 IST 2015
+Full DB Backup  Completed Successfully on: Sat Jan 10 10:23:35 IST 2015 
+Databases backed up successfully to: /mysql/PerconXtrabackup/DBBackup/base/2015-01-10_03-35-08
+Cleaning up old backups (older than 1440 minutes) and temporary files
+deleting 2015-01-09_03-35-07
+took 414 minutes
+completed: Sat Jan 10 10:29:52 IST 2015
+**********Wallet-XtraDBbackup******: Sat Jan 10 11:35:01 IST 2015
+Backup  started on: Sat Jan 10 11:35:01 IST 2015 
+----------------------------------
+Check completed OK
+New incremental backup:Sat Jan 10 11:35:01 IST 2015
+Incremental Backup  Completed Successfully on: Sat Jan 10 13:06:40 IST 2015 
+Databases backed up successfully to: /mysql/PerconXtrabackup/DBBackup/incr/2015-01-10_03-35-08/2015-01-10_11-35-04
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 91 minutes
+completed: Sat Jan 10 13:06:41 IST 2015
+**********Wallet-XtraDBbackup******: Sun Jan 11 03:35:01 IST 2015
+Backup  started on: Sun Jan 11 03:35:01 IST 2015 
+----------------------------------
+Check completed OK
+New full DB backup started on: Sun Jan 11 03:35:03 IST 2015
+Full DB Backup  Completed Successfully on: Sun Jan 11 10:04:16 IST 2015 
+Databases backed up successfully to: /mysql/PerconXtrabackup/DBBackup/base/2015-01-11_03-35-06
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 389 minutes
+completed: Sun Jan 11 10:04:16 IST 2015
+**********Wallet-XtraDBbackup******: Sun Jan 11 11:35:01 IST 2015
+Backup  started on: Sun Jan 11 11:35:01 IST 2015 
+----------------------------------
+Check completed OK
+New incremental backup:Sun Jan 11 11:35:01 IST 2015
+Incremental Backup  Completed Successfully on: Sun Jan 11 12:51:47 IST 2015 
+Databases backed up successfully to: /mysql/PerconXtrabackup/DBBackup/incr/2015-01-11_03-35-06/2015-01-11_11-35-02
+Cleaning up old backups (older than 1440 minutes) and temporary files
+deleting 2015-01-10_03-35-08
+took 81 minutes
+completed: Sun Jan 11 12:56:59 IST 2015
+**********Wallet-XtraDBbackup******: Mon Jan 12 03:35:02 IST 2015
+Backup  started on: Mon Jan 12 03:35:02 IST 2015 
+----------------------------------
+Check completed OK
+New full DB backup started on: Mon Jan 12 03:35:04 IST 2015
+Full DB Backup  Completed Successfully on: Mon Jan 12 10:16:12 IST 2015 
+Databases backed up successfully to: /mysql/PerconXtrabackup/DBBackup/base/2015-01-12_03-35-07
+Cleaning up old backups (older than 1440 minutes) and temporary files
+deleting 2015-01-11_03-35-06
+took 407 minutes
+completed: Mon Jan 12 10:22:11 IST 2015
+**********Wallet-XtraDBbackup******: Mon Jan 12 11:35:01 IST 2015
+Backup  started on: Mon Jan 12 11:35:01 IST 2015 
+----------------------------------
+Check completed OK
+New incremental backup:Mon Jan 12 11:35:01 IST 2015
+Incremental Backup  Completed Successfully on: Mon Jan 12 13:03:35 IST 2015 
+Databases backed up successfully to: /mysql/PerconXtrabackup/DBBackup/incr/2015-01-12_03-35-07/2015-01-12_11-35-03
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 88 minutes
+completed: Mon Jan 12 13:03:35 IST 2015
+**********Wallet-XtraDBbackup******: Tue Jan 13 03:35:01 IST 2015
+Backup  started on: Tue Jan 13 03:35:01 IST 2015 
+----------------------------------
+Check completed OK
+New full DB backup started on: Tue Jan 13 03:35:03 IST 2015
+Full DB Backup  Completed Successfully on: Tue Jan 13 09:51:22 IST 2015 
+Databases backed up successfully to: /mysql/PerconXtrabackup/DBBackup/base/2015-01-13_03-35-07
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 376 minutes
+completed: Tue Jan 13 09:51:22 IST 2015
+**********Wallet-XtraDBbackup******: Tue Jan 13 11:35:01 IST 2015
+Backup  started on: Tue Jan 13 11:35:01 IST 2015 
+----------------------------------
+Check completed OK
+New incremental backup:Tue Jan 13 11:35:01 IST 2015
+Incremental Backup  Completed Successfully on: Tue Jan 13 11:35:54 IST 2015 
+Databases backed up successfully to: /mysql/PerconXtrabackup/DBBackup/incr/2015-01-13_03-35-07/2015-01-13_11-35-02
+Cleaning up old backups (older than 1440 minutes) and temporary files
+deleting 2015-01-12_03-35-07
+took 4 minutes
+completed: Tue Jan 13 11:39:45 IST 2015
+**********Wallet-XtraDBbackup******: Wed Jan 14 03:35:01 IST 2015
+Backup  started on: Wed Jan 14 03:35:02 IST 2015 
+----------------------------------
+Check completed OK
+New full DB backup started on: Wed Jan 14 03:35:02 IST 2015
+Full DB Backup  Completed Successfully on: Wed Jan 14 10:27:59 IST 2015 
+Databases backed up successfully to: /mysql/PerconXtrabackup/DBBackup/base/2015-01-14_03-35-07
+Cleaning up old backups (older than 1440 minutes) and temporary files
+deleting 2015-01-13_03-35-07
+took 419 minutes
+completed: Wed Jan 14 10:34:15 IST 2015
+**********Wallet-XtraDBbackup******: Wed Jan 14 11:35:01 IST 2015
+Backup  started on: Wed Jan 14 11:35:01 IST 2015 
+----------------------------------
+Check completed OK
+New incremental backup:Wed Jan 14 11:35:01 IST 2015
+Incremental Backup  Completed Successfully on: Wed Jan 14 13:06:45 IST 2015 
+Databases backed up successfully to: /mysql/PerconXtrabackup/DBBackup/incr/2015-01-14_03-35-07/2015-01-14_11-35-04
+Cleaning up old backups (older than 1440 minutes) and temporary files
+took 91 minutes
+completed: Wed Jan 14 13:06:45 IST 2015
